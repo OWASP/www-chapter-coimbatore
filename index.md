@@ -7,7 +7,9 @@ region: Asia
 ---
 
 ## Welcome
-Include some information here about your chapter
+OWASP Coimbatore was founder in Jan, 2017. For the past 3 years, the Coimabtore Chapter has conducted numerous Meetups and Conference. All these confereneces are open meets where everyone can join and share their knowledge in Application Security. The chapter presents opportunities to the software community in contributing to secure application development.
+
+OWASP provides speakers to Institution of Engineers for Wednesday technical talks related to application security they organize. OWASP also provides speakers to Computer Society of India for technical sessions related to application security they organize.
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
@@ -21,7 +23,7 @@ Everyone is welcome and encouraged to participate in our [Projects](https://owas
 
 Would you like to speak on the upcoming OWASP Coimbatore Webinar? [Contact Us](mailto:adithyanak@owasp.org)
 
-Email Format :
+**Email Format :**
 
 - Speaker name
 - Job Role
@@ -40,6 +42,4 @@ Email Format :
 - Everyone is welcome to join us at our chapter meetings.
 - Stay tuned with the Chapter wiki to get updates on upcomming webinars and meetings.
 
-{info.md}
 
-{leaders.md}
