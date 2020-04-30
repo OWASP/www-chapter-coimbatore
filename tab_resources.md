@@ -1,4 +1,3 @@
-
 ---
 title: resources
 displaytext: Resources
