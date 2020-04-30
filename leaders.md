@@ -2,7 +2,7 @@
 
 * [Adithyan Ak](mailto:adithyan.ak@owasp.org)
 
-### Contact
+### Leader Contact
 
 - [Linkedin](https://in.linkedin.com/in/akinfosec)
 - [Facebook](https://www.facebook.com/akinfosec)
