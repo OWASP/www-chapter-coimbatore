@@ -14,7 +14,9 @@ tags: Coimbatore OWASP Chapter India
 
 **23rd April, 2020 6-8 PM**
 
-OWASP Coimbatore Exploit Development - Stack Based Buffer Overflows Webinar
+OWASP Coimbatore Exploit Development - Stack Based Buffer Overflows Webinar.
+
+[Watch Recording](https://www.youtube.com/watch?v=R9u1D3izvGs)
 
 **Platform**
 
