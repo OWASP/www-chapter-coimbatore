@@ -8,7 +8,7 @@ region: Asia
 
 ## Welcome
 
-<img src="assets/images/logo/owasp_coimbatore_logo.jpg" width="550" height="300" />
+<img src="assets/images/logo/owasp_coimbatore_logo.jpg"/>
 
 OWASP Coimbatore was founded in Jan, 2017. For the past 3 years, the Coimbatore Chapter has conducted numerous Meetups, Webinars and Conferences. All these confereneces are open meets where everyone can join and share their knowledge in Application Security. The chapter presents opportunities to the software community in contributing to secure application development.
 
