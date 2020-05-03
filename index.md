@@ -38,6 +38,11 @@ Would you like to speak on the upcoming OWASP Coimbatore Webinar? [Contact Us](m
     - Name / Title of the Presentation
     - Abstract of the presentation
     - Presentation time required
+    
+## Upcoming Events
+
+<img src="assets/images/events/reconnaissance_webinar_owasp_cbe.png"/>
+
 
 ## Local News
 - OWASP Coimbatore Webinar in Partnership with We Are Plymouths on **Exploit Development - Stack Based Buffer Overflows** has been successfully completed.
