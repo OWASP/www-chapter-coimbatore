@@ -41,9 +41,13 @@ Would you like to speak on the upcoming OWASP Coimbatore Webinar? [Contact Us](m
     
 ## Upcoming Events
 
-<img src="assets/images/events/reconnaissance_webinar_owasp_cbe.png"/>
+```Follow us on Twitter to know about more upcoming events and instant updates```
 
 ## Local News
+- OWASP Monthly webinar for May has been successfully completed on 03/05/2020. 
+- Guest Speaker : Mr. Vignesh Chandrasekaran (@bbinfosec) Chief Security Officer at Precise Thinking TCT.
+- Topic : Web Reconnaissance to find sensitive files.
+- [Click here](https://t.co/bhN59aj0Lo) to view the Webinar slides.
 - OWASP Coimbatore Webinar in Partnership with We Are Plymouths on **Exploit Development - Stack Based Buffer Overflows** has been successfully completed.
 - Click [here](https://www.youtube.com/watch?v=R9u1D3izvGs) to watch the recording of the Webinar.
 - Everyone is welcome to join us at our chapter meetings.
