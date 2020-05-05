@@ -43,19 +43,10 @@ Would you like to speak on the upcoming OWASP Coimbatore Webinar? [Contact Us](m
 
 <img src="assets/images/events/reconnaissance_webinar_owasp_cbe.png"/>
 
-
 ## Local News
 - OWASP Coimbatore Webinar in Partnership with We Are Plymouths on **Exploit Development - Stack Based Buffer Overflows** has been successfully completed.
 - Click [here](https://www.youtube.com/watch?v=R9u1D3izvGs) to watch the recording of the Webinar.
 - Everyone is welcome to join us at our chapter meetings.
 - Stay tuned with the Chapter wiki & social media handles to get updates on upcomming webinars and meetings.
-
-## Tweets
-
-<div class="center">
-    
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here are the slides of the <a href="https://twitter.com/hashtag/OWASP_Coimbatore?src=hash&amp;ref_src=twsrc%5Etfw">#OWASP_Coimbatore</a>&#39;s webinar on <a href="https://twitter.com/hashtag/Reconnaissance?src=hash&amp;ref_src=twsrc%5Etfw">#Reconnaissance</a> by Mr. vignesh Chandrasekaran (<a href="https://twitter.com/bbinfosec?ref_src=twsrc%5Etfw">@bbinfosec</a>) Chief Security Officer at Precise Thinking TCT.<a href="https://twitter.com/owasp?ref_src=twsrc%5Etfw">@owasp</a> <a href="https://twitter.com/OWASPBangalore?ref_src=twsrc%5Etfw">@OWASPBangalore</a> <a href="https://twitter.com/OWASPLondon?ref_src=twsrc%5Etfw">@OWASPLondon</a> <a href="https://twitter.com/OWASPdelhi?ref_src=twsrc%5Etfw">@OWASPdelhi</a> <a href="https://t.co/bhN59aj0Lo">https://t.co/bhN59aj0Lo</a></p>&mdash; OWASP Coimbatore (@OwaspCBE) <a href="https://twitter.com/OwaspCBE/status/1257523703857831937?ref_src=twsrc%5Etfw">May 5, 2020</a></blockquote> 
-
-</div>
 
 
