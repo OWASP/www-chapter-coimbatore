@@ -12,6 +12,19 @@ tags: Coimbatore OWASP Chapter India
 
 ```Stay in touch with us to get updates about upcoming meetings!!!```
 
+**3rd May, 2020 11.30 A.M**
+
+<img src="assets/images/events/reconnaissance_webinar_owasp_cbe.png" width="500" height="500" />
+
+**Platform**
+
+Google Meets
+
+**Slides**
+
+[Let's Recon by Mr. Vignesh C](https://github.com/OWASP/www-chapter-coimbatore/blob/master/assets/files/Lets%20Recon.pdf)
+<hr>
+
 **23rd April, 2020 6-8 PM**
 
 OWASP Coimbatore in Collaboration with We Are Plymouths `Exploit Development - Stack Based Buffer Overflows` Webinar.
