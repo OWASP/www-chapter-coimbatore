@@ -19,3 +19,4 @@ tags: Coimbatore OWASP Chapter India
 - `Web Application Security - Attacks and Mitigations` - [Download](assets/files/Web%20Application%20Security%20Adithyan%20AK.pdf)
 - `Router Reverse Engineering and Backdooring` - [Download](assets/files/Router%20Reversing%20by%20Adithyan%20AK.pdf)
 - `Web and Mobile Application Security Attacks and Mitigations` - [Download](assets/files/Web%20Mobile%20Application%20Security%20by%20Adithyan%20AK.pdf)
+- `Let's Recon by Mr.Vignesh Chandrasekaran` - [Download](assets/files/Lets%20Recon.pdf)
