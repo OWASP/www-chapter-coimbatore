@@ -1,3 +1,10 @@
+### Tweets
+
+<div class="center">
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here are the slides of the <a href="https://twitter.com/hashtag/OWASP_Coimbatore?src=hash&amp;ref_src=twsrc%5Etfw">#OWASP_Coimbatore</a>&#39;s webinar on <a href="https://twitter.com/hashtag/Reconnaissance?src=hash&amp;ref_src=twsrc%5Etfw">#Reconnaissance</a> by Mr. vignesh Chandrasekaran (<a href="https://twitter.com/bbinfosec?ref_src=twsrc%5Etfw">@bbinfosec</a>) Chief Security Officer at Precise Thinking TCT.<a href="https://twitter.com/owasp?ref_src=twsrc%5Etfw">@owasp</a> <a href="https://twitter.com/OWASPBangalore?ref_src=twsrc%5Etfw">@OWASPBangalore</a> <a href="https://twitter.com/OWASPLondon?ref_src=twsrc%5Etfw">@OWASPLondon</a> <a href="https://twitter.com/OWASPdelhi?ref_src=twsrc%5Etfw">@OWASPdelhi</a> <a href="https://t.co/bhN59aj0Lo">https://t.co/bhN59aj0Lo</a></p>&mdash; OWASP Coimbatore (@OwaspCBE) <a href="https://twitter.com/OwaspCBE/status/1257523703857831937?ref_src=twsrc%5Etfw">May 5, 2020</a></blockquote> 
+
+</div>
 
 ### Social Handles
 * [Facebook](https://m.facebook.com/pages/OWASP-Coimbatore/2452200205060061)
