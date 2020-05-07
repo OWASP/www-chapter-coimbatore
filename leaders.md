@@ -1,6 +1,7 @@
 ### Leader
 
 * [Adithyan Ak](mailto:adithyan.ak@owasp.org)
+* [Naveen Kumar](https://m.facebook.com/profile.php?id=100004818342012)
 
 ### Leader Contact
 
