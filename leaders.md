@@ -11,3 +11,8 @@
 - [Instagram](https://www.instagram.com/adithyan.ak)
 - [Github](https://github.com/adithyan-ak)
 
+### Board Members
+
+* [Vignesh C (Secretary)](vignesh4303@gmail.com)
+* [Kabilan S (Conference Coordinator)](kabilansakthivel1290@gmail.Com)
+* [Gowtham G (Academic Coordinator)](noobtechie126@gmail.com)
