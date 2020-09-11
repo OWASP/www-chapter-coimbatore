@@ -14,24 +14,6 @@ OWASP Coimbatore was founded in Jan, 2017. For the past 3 years, the Coimbatore 
 
 OWASP provides speakers to Institution of Engineers for Wednesday technical talks related to application security they organize. OWASP also provides speakers to Computer Society of India for technical sessions related to application security they organize.
 
-## Speakers
-
-Would you like to speak on the upcoming OWASP Coimbatore Webinar? [Contact Us](mailto:adithyanak@owasp.org)
-
-**Email Format :**
-
-- Speaker name
-- Job Role
-- Company / Organization
-- Country
-- Email ID
-- Contact Number
-- Speaker Profile
-- Presentation Details
-    - Name / Title of the Presentation
-    - Abstract of the presentation
-    - Presentation time required
-    
 ## Upcoming Events
 
 ```Follow us on Twitter to know about more upcoming events and instant updates```
