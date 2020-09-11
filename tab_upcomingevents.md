@@ -17,5 +17,6 @@ tags: Coimbatore OWASP Chapter India
 
 <img src="assets/images/events/bytecon.png" width="500" height="500" />
 
-Register the event here [Bytecon 2020](bytecon.bytecyberlabs.com)
+Register the event here [Bytecon 2020](bytecon.bytecyberlabs.com).
+
 <hr>
