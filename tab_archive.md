@@ -1,6 +1,6 @@
 ---
-title: archieve
-displaytext: Archieve
+title: archive
+displaytext: Archive
 layout: null
 tab: true
 order: 5
