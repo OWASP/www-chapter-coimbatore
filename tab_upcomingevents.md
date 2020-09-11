@@ -14,6 +14,6 @@ tags: Coimbatore OWASP Chapter India
 
 **OWASP Coimbatore** joined hands with [Bytecyberlabs](bytecon.bytecyberlabs.com) as an promotional partner for the most exciting event - ByteCon 2020. 
 
-<center><img src="assets/images/events/bytecon.png" width="500" height="500" /><center>
+<centre><img src="assets/images/events/bytecon.png" width="500" height="500" /><centre>
 
 [Visit](bytecon.bytecyberlabs.com)
