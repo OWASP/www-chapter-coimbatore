@@ -1,6 +1,6 @@
 ---
-title: pastevents
-displaytext: Past Events
+title: archieve
+displaytext: Archieve
 layout: null
 tab: true
 order: 5
