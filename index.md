@@ -2,7 +2,7 @@
 layout: col-sidebar
 title: OWASP Coimbatore
 tags: Coimbatore OWASP Chapter India
-level: 5
+level: 6
 region: Asia
 ---
 
