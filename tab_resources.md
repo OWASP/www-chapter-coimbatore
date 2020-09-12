@@ -3,7 +3,7 @@ title: resources
 displaytext: Resources
 layout: null
 tab: true
-order: 6
+order: 5
 tags: Coimbatore OWASP Chapter India
 
 ---
