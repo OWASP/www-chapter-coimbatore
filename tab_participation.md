@@ -3,7 +3,7 @@ title: participation
 displaytext: Participation
 layout: null
 tab: true
-order: 5
+order: 2
 tags: Coimbatore OWASP Chapter India
 
 ---
