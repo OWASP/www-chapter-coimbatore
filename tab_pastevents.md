@@ -12,6 +12,28 @@ tags: Coimbatore OWASP Chapter India
 
 ```Stay in touch with us to get updates about upcoming meetings!!!```
 
+**21-25 September 2020**
+
+**OWASP Coimbatore** joined hands with [Bytecyberlabs](http://bytecon.bytecyberlabs.com) as an promotional partner for the most exciting event - ByteCon 2020. 
+
+
+<img src="assets/images/events/bytecon.png" width="500" height="500" />
+
+Register the event here [Bytecon 2020](http://register.bytecyberlabs.com).
+
+<hr>
+
+**Day 1**
+https://www.youtube.com/watch?v=lgQW9Ug_AvU
+
+<hr>
+
+**Day 2**
+https://www.youtube.com/watch?v=V8Hvj0-6xpM
+
+<hr>
+
+
 **3rd May, 2020 11.30 A.M**
 
 <img src="assets/images/events/reconnaissance_webinar_owasp_cbe.png" width="500" height="500" />
