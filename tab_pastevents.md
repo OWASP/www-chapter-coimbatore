@@ -16,6 +16,8 @@ tags: Coimbatore OWASP Chapter India
 
 <img src="/assets/images/events/Adithyan_osint.jpg" width="500" height="500" />
 
+<hr>
+
 **21-25 September 2020**
 
 **OWASP Coimbatore** joined hands with [Bytecyberlabs](http://bytecon.bytecyberlabs.com) as an promotional partner for the most exciting event - ByteCon 2020. 
