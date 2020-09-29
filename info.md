@@ -19,5 +19,8 @@
 ### Code Repository
 * [GitHub](https://github.com/OWASP/www-chapter-coimbatore)
 
+### Meetup Handle
+* [Meetup](https://www.meetup.com/owasp-coimbatore-meetup-group)
+
 ### Change Log
 * [changes](https://github.com/OWASP/www-chapter-coimbatore/commits/master)
