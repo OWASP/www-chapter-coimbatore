@@ -10,6 +10,11 @@ tags: Coimbatore OWASP Chapter India
 
 ## Past Events
 
+**27 September 2020, 11:30 AM - 1:00PM**
+
+**OWASP Tiruvallur** in collaboration with **OWASP Coimbatore** conduced a free cyber meetup.Adithyan AK from OWASP Coimbatore delivered a session on Open Source Intelligence.
+
+<img src="/assets/images/events/Adithyan_osint.jpg" width="500" height="500" />
 
 **21-25 September 2020**
 
