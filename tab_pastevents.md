@@ -14,7 +14,7 @@ tags: Coimbatore OWASP Chapter India
 
 **OWASP Tiruvallur** in collaboration with **OWASP Coimbatore** conduced a free cyber meetup.Adithyan AK from OWASP Coimbatore delivered a session on Open Source Intelligence.
 
-<img src="/assets/images/events/Adithyan_osint.jpg" width="500" height="500" />
+<img src="assets/images/events/Adithyan_osint.jpg" width="500" height="500" />
 
 <hr>
 
