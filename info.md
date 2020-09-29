@@ -6,6 +6,8 @@
 </div>
 
 ### Social Handles
+
+* [Meetup](https://www.meetup.com/owasp-coimbatore-meetup-group/)
 * [Twitter](https://twitter.com/OwaspCBE?lang=en)
 * [Linkedin](https://www.linkedin.com/company/owasp-coimbatore)
 * [Instagram](https://www.instagram.com/owaspcoimbatore/)
