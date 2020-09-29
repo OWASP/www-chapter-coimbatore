@@ -10,7 +10,6 @@ tags: Coimbatore OWASP Chapter India
 
 ## Past Events
 
-```Stay in touch with us to get updates about upcoming meetings!!!```
 
 **21-25 September 2020**
 
