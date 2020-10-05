@@ -8,6 +8,7 @@
 * [Vignesh C (Secretary)](mailto:vignesh4303@gmail.com)
 * [Kabilan S (Conference Coordinator)](mailto:kabilansakthivel1290@gmail.Com)
 * [Gowtham G (Academic Coordinator)](mailto:noobtechie126@gmail.com)
+* [Raghul M  (CTF and Workshop Coordinator)](mailto:hello@raghul.ml)
 
 ### Leader Contact
 
