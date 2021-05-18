@@ -2,7 +2,7 @@
 layout: col-sidebar
 title: OWASP Coimbatore
 tags: Coimbatore OWASP Chapter India
-level: 6
+meetup group: /owasp-coimbatore-meetup-grouplevel: 6
 region: Asia
 ---
 
@@ -15,6 +15,8 @@ OWASP Coimbatore was founded in Jan, 2017. For the past 3 years, the Coimbatore 
 OWASP provides speakers to Institution of Engineers for Wednesday technical talks related to application security they organize. OWASP also provides speakers to Computer Society of India for technical sessions related to application security they organize.
 
 ## Upcoming Events
+
+{% include chapter_events.html group=page.meetup-group %}
 
 Follow us on Twitter to know about more upcoming events and instant updates
 
