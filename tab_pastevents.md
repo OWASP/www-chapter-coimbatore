@@ -18,27 +18,6 @@ tags: Coimbatore OWASP Chapter India
 
 <hr>
 
-**21-25 September 2020**
-
-**OWASP Coimbatore** joined hands with [Bytecyberlabs](http://bytecon.bytecyberlabs.com) as an promotional partner for the most exciting event - ByteCon 2020. 
-
-
-<img src="assets/images/events/bytecon.png" width="500" height="500" />
-
-
-<hr>
-
-**Day 1**
-https://www.youtube.com/watch?v=lgQW9Ug_AvU
-
-<hr>
-
-**Day 2**
-https://www.youtube.com/watch?v=V8Hvj0-6xpM
-
-<hr>
-
-
 **3rd May, 2020 11.30 A.M**
 
 <img src="assets/images/events/reconnaissance_webinar_owasp_cbe.png" width="500" height="500" />
@@ -50,19 +29,6 @@ Google Meets
 **Slides**
 
 [Let's Recon by Mr. Vignesh C](https://github.com/OWASP/www-chapter-coimbatore/blob/master/assets/files/Lets%20Recon.pdf)
-<hr>
-
-**23rd April, 2020 6-8 PM**
-
-OWASP Coimbatore in Collaboration with We Are Plymouths `Exploit Development - Stack Based Buffer Overflows` Webinar.
-
-<a href="https://twitter.com/weareplymouths/status/1255146018821206018"><img src="assets/images/owasp-coimbatore-community-partner.gif" width="550" height="300" alt="OWASP Coimbatore Community Partner"></a>
-
-[Watch Recording](https://www.youtube.com/watch?v=R9u1D3izvGs)
-
-**Platform**
-
-Zoom
 <hr>
 
 **2nd February, 2020 6-8 PM**
