@@ -8,7 +8,7 @@ meetup-group:
 
 ---
 
-<div style='color:red;'>
+<div style='color:red;'></div>
 ```
 ## Welcome
 Include some information here about your chapter
