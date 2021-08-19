@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Coimbatore
-tags: coimbatore,kovai,owasp,cyber-security,bug-hunting,owasp-coimbatore
+tags: tab_speakers
 region: Asia
 meetup-group:
 level: 6
