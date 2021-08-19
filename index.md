@@ -10,6 +10,7 @@ level: 6
 ---
 
 ## Welcome
+<img src="https://github.com/OWASP/wwww-chapter-coimbatore/assets/images/LOGO.svg alt="Logo"/>
 OWASP Coimbatore Chapter 
 
 ## Participation
