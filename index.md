@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Coimbatore
-tags: tab_speakers
+tags: Coimbatore OWASP Chapter India
 region: Asia
 meetup-group:
 level: 6
