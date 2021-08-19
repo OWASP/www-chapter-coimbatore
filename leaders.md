@@ -1,3 +1,3 @@
 ### Leaders
-<a href="mailto:aswin.leelakrishnan@owasp.org">Aswin Leelakrishnan</a><br>
-<a href="mailto:threshant.gopal@owasp.org">Threshant Gopal</a>
+* [Aswin Leelakrishnan](mailto:aswin.leelakrishnan@owasp.org
+* [Threshant Gopal](mailto:threshant.gopal@owasp.org)
