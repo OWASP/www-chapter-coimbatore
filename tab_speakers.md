@@ -8,10 +8,11 @@ tags: Coimbatore OWASP Chapter India
 
 ---
 ## Speakers
-<img src="assets/images/logo/Speaker_banner.jpeg"/>
 
+Would you like to speak on the upcoming OWASP Coimbatore Webinar? Share your profile in the following format to
+- [Aswin](mailto:aswin.leelakrishnan@owasp.org) (Reg participation)
+- [Threshant](mailto:threshant.gopal@owasp.org) (Reg queries)
 
-Would you like to speak on the upcoming OWASP Coimbatore Webinar? [Contact Us](mailto:adithyanak@owasp.org)
 
 **Email Format :**
 
