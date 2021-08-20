@@ -23,9 +23,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 ## Next Meeting/Event
 ---------------------
-{% include chapter_events.html group=page.meetup-group %} \
-```Upcoming events will be updated here```\
-Follow us on <a href="https://twitter.com/owaspcbe?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-lang="en" data-show-count="false">Follow @owaspcbe</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> for more updates
+{% include chapter_events.html group=page.meetup-group %} 
 
 ## Featured
 ---------------------
