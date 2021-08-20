@@ -23,7 +23,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 ---------------------
 {% include chapter_events.html group=page.meetup-group %} \
 ```Upcoming events will be updated here```\
-Follow us on [Twitter](https://www.twiter.com/owasp_coimbatore) ,[Instagram](https://www.instagram.com/owasp_coimbatore) for more updates
+Follow us on <a href="https://twitter.com/owaspcbe?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-lang="en" data-show-count="false">Follow @owaspcbe</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> for more updates
 
 ## Featured
 ---------------------
