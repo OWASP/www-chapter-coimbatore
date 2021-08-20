@@ -4,7 +4,8 @@ displaytext: Sponsorship
 layout: null
 tab: true
 order: 2
-tags: Coimbaore OWASP Chapter India
+tags: Coimbatore OWASP Chapter India
+
 ---
 
 # Sponsorship
