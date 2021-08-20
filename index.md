@@ -2,10 +2,12 @@
 
 layout: col-sidebar
 title: OWASP Coimbatore
-tags: Coimbatore OWASP Chapter India
+site_side: true
+tags: owasp-coimbatore
+country: India
 region: Asia
-meetup-group:
-level: 6
+meetup-group: owasp-coimbatore
+level: 3
 
 ---
 
