@@ -22,7 +22,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 ## Next Meeting/Event
 ---------------------
 `New events will be updated soon`
-Follow us on [Twitter](https://www.twiter.com/owasp_coimbatore) for morw updates
+Follow us on [Twitter](https://www.twiter.com/owasp_coimbatore) for more updates
 {% include chapter_events.html group=page.meetup-group %}
 
 
