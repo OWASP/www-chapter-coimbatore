@@ -4,7 +4,7 @@ displaytext: Speakers
 layout: null
 tab: true
 order: 3
-tags: Coimbatore OWASP Chapter India
+tags: owasp-coimbatore
 
 ---
 ## Speakers
