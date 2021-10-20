@@ -3,6 +3,6 @@
 * [Threshant Gopal](mailto:threshant.gopal@owasp.org)
 
 ### Core Team
-* Aadhithya
-* Hari Hara Kumar
-* Nithin
+* Adithya Rathinam
+* Hariharakumar Ranganathan
+* Nithin Soundarajan
