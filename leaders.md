@@ -5,4 +5,4 @@
 ### Core Team
 * Adithya Rathinam
 * Hariharakumar Ranganathan
-* Nithin Soundarajan
+* Nithin Soundararajan
