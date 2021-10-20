@@ -8,11 +8,6 @@ tags: owasp-coimbatore
 
 ---
 
-#### Webinar Recordings :
-
-- `Exploit Development - Stack based buffer overflow` - [Youtube](https://www.youtube.com/watch?v=R9u1D3izvGs)
-- `Ethical Hacking Hands-On` - [Google Drive](https://drive.google.com/file/d/1gaErUWur_sIH4lDvhcezC3ycX76J6A_M/view?usp=drivesdk)
-
 #### Webinar Slides :
 
 - `Exploit Development - Stack based buffer overflow` - [Download](assets/files/Exploit%20Development%20Stack%20Bufferoverflow.pdf)
