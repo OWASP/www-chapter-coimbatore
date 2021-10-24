@@ -93,7 +93,7 @@ Google Hangouts Meet
 
 **29th September, 2019 7.30 - 8.30 PM**
 
-OWASP Coimbatore Ethical Hacking Hands-On Webinar in **Tamil** ([Download Recording](https://drive.google.com/file/d/1gaErUWur_sIH4lDvhcezC3ycX76J6A_M/view?usp=drivesdk))
+OWASP Coimbatore Ethical Hacking Hands-On Webinar in **Tamil** 
 
 **Platform**
 
