@@ -4,7 +4,7 @@ displaytext: Past Events
 layout: null
 tab: true
 order: 5
-tags: Coimbatore OWASP Chapter India
+tags: owasp-coimbatore
 
 ---
 
