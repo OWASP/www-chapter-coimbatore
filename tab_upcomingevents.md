@@ -4,7 +4,7 @@ displaytext: Upcoming Events
 layout: null
 tab: true
 order: 4
-tags: owasp-coimbatore
+tags: 
 
 ---
 
