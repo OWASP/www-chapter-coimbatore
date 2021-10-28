@@ -12,7 +12,7 @@ tags: owasp-coimbatore
 
 **21 October 2021, 3:00 PM - 4:20PM**
 
-Hosted a webinar on **Open Source Intelligence**
+Hosted a webinar on **Open Source Intelligence(OSINT)**
 
 <img src="assets/images/events/21102021.jpg" width="500" height="500" />
 
