@@ -12,7 +12,7 @@ level: 3
 ---
 
 ## Welcome
-![Logo](https://owasp.org/www-chapter-coimbatore/assets/images/logo/LOGO_WHITE.png)
+![Logo](https://owasp.org/www-chapter-coimbatore/assets/images/logo/owasp_coimbatore_logo.jpg)
 
 ## Leaders 
 * [Aswin Leelakrishnan](mailto:aswin.leelakrishnan@owasp.org)
