@@ -1,6 +1,6 @@
 ---
 title: participation
-displaytext: Past Events
+displaytext: Participation
 layout: null
 tab: true
 order: 5
