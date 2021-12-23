@@ -21,7 +21,7 @@ level: 3
 
 ## Coordinators 
 
-- Ashok Kumar Mohan (Faculty Advisor) - TIFAC-CORE Cyber Security, Amrita Vishwa Vidyapeetham university, Coimbatore.
+- Ashok Kumar Mohan (Faculty Advisor) - TIFAC-CORE Cyber Security, Amrita Vishwa Vidyapeetham University, Coimbatore
 - Adithya R U - Workshop and CTF coordinator
 - Hariharakumar R - PR& marketing coordinator
 - Hariharan A -  Finance coordinator 
