@@ -4,7 +4,7 @@ displaytext: Participation
 layout: null
 tab: true
 order: 5
-tags: owasp-coimbatore
+tags:
 
 ---
 
