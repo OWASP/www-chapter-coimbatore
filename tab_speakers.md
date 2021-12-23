@@ -3,8 +3,8 @@ title: speakers
 displaytext: Speakers
 layout: null
 tab: true
-order: 3
-tags:
+order: 6
+tags: owasp-coimbatore
 
 ---
 ## Speakers
