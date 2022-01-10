@@ -14,7 +14,8 @@ tags: owasp-coimbatore
 
 **13 January 2022, 11:00 AM**
 
-A webinar on **Ifs and buts of log4j by Mr.Jiggyasu Sharma**
+A webinar on **Ifs and buts of log4j by Mr.Jiggyasu Sharma.**
+Open for all [Register Now](https://tiny.cc/cys-log4j)
 
 <img src="assets/images/events/log4j.jpg" width="500" height="500" />
 
