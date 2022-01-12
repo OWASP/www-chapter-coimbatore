@@ -38,20 +38,19 @@ The chapter leadership board is as follows:
       <td>Subash J</td></tr>
   
     <tr><td>PR/Marketing Coordinator</td>
-      <td>Provides marketing of LASCON and other Chapter events.</td>
+      <td>Provides marketing of Chapter events.</td>
       <td>Hariharakumar R</td></tr>
   
-    <tr><td>Academmic and Conference Coordinator</td>
-      <td>Coordinates activities to grow individual and corporate memberships. Acts as project manager for events, such as LASCON, tracking assigned tasks and reporting progress. Seeks and schedules speakers for monthly Chapter meetings, LASCON, and other events.</td>
+    <tr><td>Academic and Conference Coordinator</td>
+      <td>Coordinates activities to grow individual and corporate memberships. Acts as project manager for events, tracking assigned tasks and reporting progress. Seeks and schedules speakers for monthly Chapter meetings and other events.</td>
       <td>Kabilan S<br/>Udhaya Praveen S</td></tr>
   
     <tr><td>Workshop and CTF coordinator</td>
-      <td>All of the Chapter Leadership Coordinators are responsible for coordinating aspects of events, including the annual Lonestar Application Security Conference (LASCON). The Chapter Leader acts as the committee chair.</td>
+      <td>Coordinating logistical and financial matters for the workshop, fulfilling reporting requirements, and providing intellectual leadership.</td>
       <td>Nithin S <br/> Adithya R U </td></tr>
   
     <tr><td>Finance</td>
-      <td>The Chapter Leader is designated as primary person responsible for Chapter budget and Chapter expense approvals.
-The previous Chapter Leader is designated as secondary approver, who also will approve any expenses submitted by the Chapter Leader.</td>
+      <td>The Chapter Leader is designated as primary person responsible for Chapter budget and Chapter expense approvals.</td>
       <td>Hariharan A</td></tr>
     
 </table>
