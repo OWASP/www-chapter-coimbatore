@@ -35,15 +35,15 @@ The chapter leadership board is as follows:
   
     <tr><td>Education Coordinator</td>
       <td>Coordinates all of the Chapter-sponsored educational offerings, to include the weekly Study Group and LASCON training. Leads the weekly Study Group.</td>
-      <td><a>Subash J</a></td></tr>
+      <td>Subash J</td></tr>
   
     <tr><td>PR/Marketing Coordinator</td>
       <td>Provides marketing of LASCON and other Chapter events.</td>
-      <td><a>Hariharakumar R</a></td></tr>
+      <td>Hariharakumar R</td></tr>
   
     <tr><td>Academmic and Conference Coordinator</td>
       <td>Coordinates activities to grow individual and corporate memberships. Acts as project manager for events, such as LASCON, tracking assigned tasks and reporting progress. Seeks and schedules speakers for monthly Chapter meetings, LASCON, and other events.</td>
-      <td><a>Kabilan S<br/>Udhaya Praveen S</a></td></tr>
+      <td>Kabilan S<br/>Udhaya Praveen S</td></tr>
   
     <tr><td>Workshop and CTF coordinator</td>
       <td>All of the Chapter Leadership Coordinators are responsible for coordinating aspects of events, including the annual Lonestar Application Security Conference (LASCON). The Chapter Leader acts as the committee chair.</td>
