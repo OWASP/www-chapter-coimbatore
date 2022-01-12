@@ -21,7 +21,7 @@ Chapter Leadership
 The chapter leadership board is as follows:
 
 <table cellpadding="5" cellspacing="0" border="1">
-  <tr><th>Chapter Leadership Board Member Role</th>
+  <tr><th>Board Member Roles</th>
       <th width="50%">Responsibilities</th>
       <th>Person(s)</th></tr>
   
