@@ -50,7 +50,7 @@ The chapter leadership board is as follows:
       <td>Nithin S <br/> Adithya R U </td></tr>
   
     <tr><td>Finance</td>
-      <td>The Chapter Leader is designated as primary person responsible for Chapter budget and Chapter expense approvals.</td>
+      <td>The Chapter Leader is designated as primary person responsible for Chapter budget and Chapter expense approvals. The designated person as secondary approver, who also will approve any expenses submitted by the Chapter Leader.</td>
       <td>Hariharan A</td></tr>
     
 </table>
