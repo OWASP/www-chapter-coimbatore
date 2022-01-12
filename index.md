@@ -16,6 +16,10 @@ level: 3
 
 
 
+Chapter Leadership
+------------------
+The chapter leadership board is as follows:
+
 <table cellpadding="5" cellspacing="0" border="1">
   <tr><th>Chapter Leadership Board Member Role</th>
       <th width="50%">Responsibilities</th>
