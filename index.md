@@ -34,7 +34,7 @@ The chapter leadership board is as follows:
       <td><a href="mailto:ashok.kumarmohan@owasp.org">Ashok Kumar Mohan</a></td></tr>
   
     <tr><td>Education Coordinator</td>
-      <td>Coordinates all of the Chapter-sponsored educational offerings, to include the weekly Study Group and LASCON training. Leads the weekly Study Group.</td>
+      <td>Coordinates all of the Chapter-sponsored educational offerings, to include the weekly Study Group. Leads the weekly Study Group.</td>
       <td>Subash J</td></tr>
   
     <tr><td>PR/Marketing Coordinator</td>
