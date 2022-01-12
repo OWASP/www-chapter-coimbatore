@@ -22,7 +22,7 @@ The chapter leadership board is as follows:
 
 <table cellpadding="5" cellspacing="0" border="1">
   <tr><th>Board Member Roles</th>
-      <th width="50%">Responsibilities</th>
+      <th width="40%">Responsibilities</th>
       <th>Person(s)</th></tr>
   
   <tr><td>Chapter Leader</td>
