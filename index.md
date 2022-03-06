@@ -35,8 +35,7 @@ The chapter leadership board is as follows:
   
     <tr><td>Education Coordinator</td>
       <td>Coordinates all of the Chapter-sponsored educational offerings, to include the weekly Study Group. Leads the weekly Study Group.</td>
-      <td>Subash J</td>
-      <td>Sourav S</td></tr>
+      <td>Subash J <br>Sourav S</td></tr>
       
   
     <tr><td>PR/Marketing Coordinator</td>
