@@ -10,6 +10,17 @@ tags: owasp-coimbatore
 
 ## Past Events
 
+<hr>
+
+**19 March 2022, 06:30 PM**
+
+A webinar on **Cyber Crime Investigation: Indian Scenario a webinar by Subash J.**
+
+
+<img src="assets/images/events/cyc-inv.jpeg" width="500" height="500" />
+
+<hr>
+
 **21 October 2021, 3:00 PM - 4:20PM**
 
 Hosted a webinar on **Open Source Intelligence(OSINT)**
