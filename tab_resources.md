@@ -9,7 +9,7 @@ tags: owasp-coimbatore
 ---
 
 #### Webinar Slides :
-
+- `Introduction to Bug Bounty` - [Download](assets/files/OWASP%20CBE%20Slides.pdf)
 - `Cyber Crime Investigation` - [Download](assets/files/cyber%20crime%20Investigation.pdf)
 - `Exploit Development - Stack based buffer overflow` - [Download](assets/files/Exploit%20Development%20Stack%20Bufferoverflow.pdf)
 - `Web Application Security - Attacks and Mitigations` - [Download](assets/files/Web%20Application%20Security%20Adithyan%20AK.pdf)
