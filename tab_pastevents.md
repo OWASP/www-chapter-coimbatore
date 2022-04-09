@@ -10,6 +10,16 @@ tags: owasp-coimbatore
 
 ## Past Events
 
+
+<hr>
+
+**9 April 2022, 06:30 PM**
+
+A webinar on **Introduction to Bug Bounty**
+
+
+<img src="assets/images/events/bug_bounty.png" width="500" height="500" />
+
 <hr>
 
 **19 March 2022, 06:30 PM**
