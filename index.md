@@ -12,7 +12,7 @@ level: 3
 ---
 
 ## Welcome
-![Logo](https://owasp.org/www-chapter-coimbatore/assets/images/logo/owasp_coimbatore_logo.jpg)
+![Logo](https://owasp.org/www-chapter-coimbatore/assets/images/logo/LOGO_DARK.png)
 
 
 
