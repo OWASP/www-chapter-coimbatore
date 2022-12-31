@@ -9,7 +9,14 @@ tags: owasp-coimbatore
 ---
 
 ## Past Events
+<hr>
 
+**30 December 2022, 07:30 PM**
+
+A webinar on **Cyber Forensics**
+
+
+<img src="assets/images/events/cf.jpeg" width="500" height="500" />
 
 <hr>
 
