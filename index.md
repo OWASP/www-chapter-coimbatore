@@ -20,7 +20,9 @@ OWAPS Coimbatore Chapter is led by a passionate group of Chapter leaders - Arun.
 
 **Call for Speakers**
 
-Are you an expert in application security? Are you a beginner who is looking for a platform to showcase your security skills? We're always looking for enthusiastic speakers to share their knowledge at our events. 
+Are you an expert in application security? 
+Are you a beginner who is looking for a platform to showcase your security skills? 
+We're always looking for enthusiastic speakers to share their knowledge at our events. 
 
 If you'd like to present a talk, please:
 1. Review and agree to the OWASP Speaker Agreement: https://owasp.org/www-policy/legal/speaker-agreement2.
