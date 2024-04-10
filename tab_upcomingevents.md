@@ -10,10 +10,7 @@ tags: owasp-coimbatore
 
 ## Upcoming Events
 
-`Due to COVID, all of the upcomming events are held virtually`
-
-
-`Updates will be posted here`
+`Stay Tunes`
 
 {% include chapter_events.html group=page.meetup-group %}
 
