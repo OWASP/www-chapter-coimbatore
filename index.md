@@ -11,7 +11,7 @@ meetup-group: owasp-coimbatore
 
 # OWASP Coimbatore Chapter [[OWASP_Coimbatore_Logo.JPG](https://github.com/OWASP/www-chapter-coimbatore/blob/master/OWASP_Coimbatore_Logo.JPG)]
 
-**Welcome to the OWASP Coimbatore chapter homepage!
+**Welcome to the OWASP Coimbatore chapter homepage!**
 
 The OWASP Coimbatore chapter is dedicated to promoting application security awareness, knowledge sharing, and collaboration among security professionals in the Coimbatore region. 
 OWAPS Coimbatore Chapter is led by a passionate group of Chapter leaders - Arun.S, Subash, Rohit.S, and Ganana Manoharan.
