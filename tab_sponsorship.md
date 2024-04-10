@@ -9,4 +9,4 @@ tags: owasp-coimbatoree
 ---
 
 # Sponsorship
-> To sponsor this chapter kindly contact [Threshant Gopal](mailto:threshant@owasp.org)
+> To sponsor this chapter kindly contact [Arun S](mailto:arun.saravanan@owasp.org)
