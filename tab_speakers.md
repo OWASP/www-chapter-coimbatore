@@ -9,7 +9,7 @@ tags: owasp-coimbatore
 ---
 ## Speakers
 
-Would you like to speak on the upcoming OWASP Coimbatore Webinar? Submit your interest in the following Google form link;
+Would you like to speak on the upcoming OWASP Coimbatore Event/Webinar? Submit your interest in the following Google form link;
 
 Speaker Registration: https://forms.gle/Pt7czVEAn4rNituZ9
 
