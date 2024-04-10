@@ -10,7 +10,7 @@ tags: owasp-coimbatore
 
 ## Upcoming Events
 
-`Stay Tunes`
+`Stay Tuned for the upcoming event/webinar!!!`
 
 {% include chapter_events.html group=page.meetup-group %}
 
