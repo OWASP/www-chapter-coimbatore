@@ -9,7 +9,7 @@ meetup-group: owasp-coimbatore
 
 ---
 
-# OWASP Coimbatore Chapter [[OWASP_Coimbatore_Logo.JPG](https://github.com/OWASP/www-chapter-coimbatore/blob/master/OWASP_Coimbatore_Logo.JPG)]
+# OWASP Coimbatore Chapter
 
 **Welcome to the OWASP Coimbatore chapter homepage!**
 
