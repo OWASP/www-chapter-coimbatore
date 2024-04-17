@@ -11,6 +11,9 @@ meetup-group: owasp-coimbatore
 
 # OWASP Coimbatore Chapter
 
+![OWASP Coimbatore Chapter](OWASP_Cbe_Banner.png
+"OWASP Coimbatore Chapter")
+
 **Welcome to the OWASP Coimbatore chapter homepage!**
 
 The OWASP Coimbatore chapter is dedicated to promoting application security awareness, knowledge sharing, and collaboration among security professionals in the Coimbatore region. 
