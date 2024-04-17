@@ -51,7 +51,7 @@ OWASP Coimbatore Chapter is led by a passionate group of Chapter leaders - Arun.
 
 **Stay Connected**
 
-Follow us on Linktree for all our social media resources and our mailing list: https://linktr.ee/OWASP_CBE
+Follow us on Linktree for all our social media resources and our mailing list:[OWASP_Coimbatore_Useful_Social_Media_Links](https://linktr.ee/OWASP_CBE)  
 
 
 
