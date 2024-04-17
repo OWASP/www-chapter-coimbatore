@@ -2,7 +2,7 @@
 
 
 
-![OWASP Coimbatore Chapter](OWASP_Coimbatore_Logo.JPG
+![OWASP Coimbatore Chapter](OWASP_Cbe_logo.png
 "OWASP Coimbatore Chapter")
 
 ### Social Handles
