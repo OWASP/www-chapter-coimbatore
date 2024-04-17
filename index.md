@@ -33,7 +33,7 @@ If you'd like to present a talk, please:
   
 **Next Meeting/Event(s)**
 
-* Stay tuned for upcoming OWASP Coimbatore Chapter meetings! 
+* Stay tuned for upcoming OWASP Coimbatore Chapter meetings!!! 
 * We'll announce them on our Meetup page [OWASP_Coimbatore_Meetup_Page](https://www.meetup.com/owasp-coimbatore/) 
 
 
