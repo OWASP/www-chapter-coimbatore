@@ -9,7 +9,7 @@ meetup-group: owasp-coimbatore
 
 ---
 
-# OWASP Coimbatore Chapter
+#OWASP Coimbatore Chapter
 
 **Welcome to the OWASP Coimbatore chapter homepage!**
 
@@ -24,9 +24,10 @@ OWAPS Coimbatore Chapter is led by a passionate group of Chapter leaders - Arun.
 * Are you a beginner who is looking for a platform to showcase your security skills? 
 * We're always looking for enthusiastic speakers to share their knowledge at our events. 
 
-If you'd like to present a talk, please:
-1. Review and agree to the OWASP Speaker Agreement: https://owasp.org/www-policy/legal/speaker-agreement2.
-2. Submit your talk proposal: https://forms.gle/M7zLHXGAdo38Txo27
+*If you'd like to present a talk, please:*
+
+* Review and agree to the OWASP Speaker Agreement:[OWASP_Speaker_Agreement](https://owasp.org/www-policy/legal/speaker-agreement2)
+* Submit your talk proposal:[OWASP_Speaker_Registration](https://forms.gle/M7zLHXGAdo38Txo27)
 
 
 
@@ -43,7 +44,7 @@ If you'd like to present a talk, please:
 * Catch up on past OWASP Coimbatore events by watching the recordings on our YouTube channel
 [OWASP_Coimbatore_Youtube_Page](https://www.youtube.com/owaspcoimbatore) 
 
-**Don't forget to SUBSCRIBE to get notified about new videos!**
+**Don't forget to SUBSCRIBE to get notified about new videos!!!**
 
 
 
