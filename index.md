@@ -20,9 +20,9 @@ OWAPS Coimbatore Chapter is led by a passionate group of Chapter leaders - Arun.
 
 **Call for Speakers**
 
-Are you an expert in application security? 
-Are you a beginner who is looking for a platform to showcase your security skills? 
-We're always looking for enthusiastic speakers to share their knowledge at our events. 
+* Are you an expert in application security? 
+* Are you a beginner who is looking for a platform to showcase your security skills? 
+* We're always looking for enthusiastic speakers to share their knowledge at our events. 
 
 If you'd like to present a talk, please:
 1. Review and agree to the OWASP Speaker Agreement: https://owasp.org/www-policy/legal/speaker-agreement2.
@@ -33,13 +33,15 @@ If you'd like to present a talk, please:
   
 **Next Meeting/Event(s)**
 
-Stay tuned for upcoming OWASP Coimbatore Chapter meetings! We'll announce them on our Meetup page: https://www.meetup.com/owasp-coimbatore
+* Stay tuned for upcoming OWASP Coimbatore Chapter meetings! 
+* We'll announce them on our Meetup page [OWASP_Coimbatore_Meetup_Page](https://www.meetup.com/owasp-coimbatore/) 
 
 
 
 **Video Recordings of Past Events**
 
-Catch up on past OWASP Coimbatore events by watching the recordings on our YouTube channel: https://www.youtube.com/owaspcoimbatore
+* Catch up on past OWASP Coimbatore events by watching the recordings on our YouTube channel
+[OWASP_Coimbatore_Youtube_Page](https://www.youtube.com/owaspcoimbatore) 
 
 **Don't forget to SUBSCRIBE to get notified about new videos!**
 
@@ -61,7 +63,8 @@ Our meetings are open to the public – no membership is required! We encourage 
 
 
 **Join OWASP or Sponsor Us**
-Please do consider [joining OWASP](https://owasp.org/membership/)
-If you find our community, projects, and meetings valuable, consider joining OWASP or becoming a chapter sponsor. Your support helps us continue our mission!
+
+* Please do consider [joining OWASP](https://owasp.org/membership/)
+* If you find our community, projects, and meetings valuable, consider joining OWASP or becoming a chapter sponsor. Your support helps us continue our mission!
 Please provide your interest in venue sponsorship to EMAIL: arun.saravanan@owasp.org
 
