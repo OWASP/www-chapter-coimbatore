@@ -69,5 +69,5 @@ Our meetings are open to the public – no membership is required! We encourage 
 
 * Please do consider [joining OWASP](https://owasp.org/membership/)
 * If you find our community, projects, and meetings valuable, consider joining OWASP or becoming a chapter sponsor. Your support helps us continue our mission!
-Please provide your interest in venue sponsorship to EMAIL: arun.saravanan@owasp.org
+Please provide your interest in venue sponsorship to EMAIL: subash.jaganathan@owasp.org / arun.saravanan@owasp.org
 
