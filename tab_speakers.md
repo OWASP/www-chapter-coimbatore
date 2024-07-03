@@ -3,18 +3,17 @@ title: speakers
 displaytext: Speakers
 layout: null
 tab: true
-order: 6
-tags: owasp-coimbatore
-
+order: 2
+tags: next-tag
 ---
+
 ## Speakers
 
-Would you like to speak on the upcoming OWASP Coimbatore Event/Webinar? Submit your interest in the following Google form link;
+Would you like to speak at the upcoming OWASP Coimbatore Event/Webinar? 
 
-Speaker Registration: https://forms.gle/Pt7czVEAn4rNituZ9
+Submit your interest using the following Google Form link [![Speaker Registration](https://img.shields.io/badge/Google%20Form-Speaker%20Registration-red)](https://forms.gle/Pt7czVEAn4rNituZ9)
 
-For More Queries Contact:
-- [Arun](mailto:arun.saravanan@owasp.org) (Reg participation)
-- [subash](mailto:owaspcbe@gmail.com) (Reg queries)
+For More Queries Contact
 
-
+- [Arun Saravanan](mailto:arun.saravanan@owasp.org) Participation queries
+- [Subash Jaganathan](mailto:owaspcbe@gmail.com) Registration queries
