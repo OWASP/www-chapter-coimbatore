@@ -13,9 +13,9 @@ tags: next-tag
 
 <br>
 <div style="display: flex; justify-content: space-between;">
-  <img src="assets/images/events/Staytuned.png" width="270" height="337.5">
-  <img src="assets/images/events/Staytuned.png" width="270" height="337.5">
-  <img src="assets/images/events/Staytuned.png" width="270" height="337.5">
+  <img src="assets/images/events/StayTuned.png" width="270" height="337.5">
+  <img src="assets/images/events/StayTuned.png" width="270" height="337.5">
+  <img src="assets/images/events/StayTuned.png" width="270" height="337.5">
 </div>
 <br>
 
