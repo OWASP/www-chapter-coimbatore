@@ -8,7 +8,6 @@ level: 0
 region: Middle East
 
 
----
-![Owasp_Coimbatore.jpg](Owasp_Coimbatore.jpg "Owasp_Coimbatore.jpg")
+
 
 
