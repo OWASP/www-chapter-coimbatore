@@ -24,15 +24,7 @@ tags: next-tag
 **Time:** 6:00 PM – 08:45 PM (IST)  
 **Location:** Online via Zoom Meeting
 
-### Agenda
-- **6:00 PM - 6:15 PM:** Introduction and Welcome Note by Arun.S
-- **6:15 PM - 7:00 PM:** Ashok Kumar Mohan  
-  **Topic:** Unveiling Hidden Connections: Metadata Association Models in Cyber Crime Investigations
-- **7:00 PM - 7:45 PM:** B.N. Chandrapal  
-  **Topic:** "Well, it's just an AWS Account ID"
-- **7:45 PM - 8:30 PM:** Manivannan Arumugam  
-  **Topic:** "The Anatomy of Malware Campaign"
-- **8:30 PM - 8:40 PM:** Closing Note by Subash
+StayTuned!!!
 
 ### Joining Information
 **Link to Join:**  
