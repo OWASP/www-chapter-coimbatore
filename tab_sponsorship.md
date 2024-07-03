@@ -3,10 +3,10 @@ title: Sponsorship
 displaytext: Sponsorship
 layout: null
 tab: true
-order: 2
-tags: owasp-coimbatoree
-
+order: 6
+tags: next-tag
 ---
 
 # Sponsorship
-> To sponsor this chapter kindly contact [Arun S](mailto:arun.saravanan@owasp.org)
+
+> To sponsor this chapter kindly contact [Arun Saravanan](mailto:arun.saravanan@owasp.org) , [Subash Jaganathan](mailto:subash.jaganathan@owasp.org).
