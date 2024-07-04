@@ -21,7 +21,7 @@ tags: next-tag
 
 ### Event Details
 **Date:** Saturday, July 6, 2024  
-**Time:** 5:45 PM – 10:00 PM (IST)  
+**Time:** 6:00 PM – 09:00 PM (IST)  
 **Location:** Online via Google Meet
 
 ### Agenda
