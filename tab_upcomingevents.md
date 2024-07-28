@@ -21,4 +21,4 @@ Keep an eye on this page for updates and details.</p>
 
 <hr>
 
-{% include chapter_events.html group=page.meetup-group %}
+
