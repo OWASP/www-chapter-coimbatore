@@ -12,6 +12,37 @@ tags: next-tag
 <hr>
 
 <details>
+  <summary>6 July 2024, 05:45 PM - OWASP Coimbatore Combined Monthly Meetup</summary>
+  <p>
+    <strong>OWASP Coimbatore Combined Monthly Meetup</strong>
+    <br>
+    <div style="display: flex; justify-content: space-between;">
+      <img src="assets/images/events/Ashok_Kumar_Mohan_Event_6_7_2024.jpeg" width="270" height="337.5">
+      <img src="assets/images/events/Chandrapal_Bashah_Event_6_7_2024.png" width="270" height="337.5">
+      <img src="assets/images/events/Manivannan_Arumugam_Event_6_7_2024.jpeg" width="270" height="337.5">
+    </div>
+    <br>
+    <strong>Date:</strong> Saturday, July 6, 2024
+    <br>
+    <strong>Time:</strong> 5:45 PM – 10:00 PM (IST)
+    <br>
+    <strong>Location:</strong> Online via Google Meet
+    <br>
+    <br>
+    <strong>Agenda</strong>
+    <ul>
+      <li>5:45 PM - 6:00 PM: Introduction and Welcome</li>
+      <li>6:00 PM - 7:00 PM: Ashok Kumar Mohan - <em>Unveiling Hidden Connections: Metadata Association Models in Cyber Crime Investigations</em></li>
+      <li>7:00 PM - 7:45 PM: B.N. Chandrapal - <em>"Well, it's just an AWS Account ID"</em></li>
+      <li>7:45 PM - 8:30 PM: Manivannan Arumugam - <em>"The Anatomy of Malware Campaign"</em></li>
+      <li>8:30 PM - 8:40 PM: Conclusion</li>
+    </ul>
+  </p>
+</details>
+
+<hr>
+
+<details>
   <summary>30 December 2022, 07:30 PM - A webinar on Cyber Forensics</summary>
   <p>
     <strong>A webinar on Cyber Forensics</strong>
