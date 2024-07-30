@@ -17,7 +17,7 @@ tags: next-tag
 
 <p><strong>Date:</strong> August 24, 2024<br>
 <strong>Time:</strong> 9:30 AM - 4:00 PM<br>
-<strong>Venue:</strong> Sri Krishna College of Arts and Science, Kuniamuthur, Coimbatore - 641008.</p>
+<strong>Venue:</strong> Sri Krishna College of Arts and Science, Kuniyamuthur, Coimbatore - 641008.</p>
 
 <p>Join us for a day filled with insightful sessions on cybersecurity, technology, and related topics. This is a fantastic opportunity to connect with industry experts and enthusiasts.</p>
 
