@@ -19,6 +19,32 @@ tags: next-tag
 <strong>Time:</strong> 9:30 AM - 4:00 PM<br>
 <strong>Venue:</strong> Sri Krishna College of Arts and Science, Kuniyamuthur, Coimbatore - 641008.</p>
 
+**Our Guest Speakers**
+
+- **Jeet Raj Kumar**  
+  *Senior DevSecOps Specialist*  
+  Topic: Challenges in Enterprise DevSecOps & Increasing Security Testing Efficiency
+
+- **Subash Jaganathan**  
+  *Cyber Security Consultant*  
+  Topic: Digital Forensics & Incident Response Operations
+
+- **Vignesh Chandrasekaran**  
+  *Senior Cyber Security Consultant*  
+  Topic: Purple Team Tabletop Exercise
+
+- **Avinash R**  
+  *Senior Cyber Security Consultant*  
+  Topic: Web Application Pentesting
+
+- **Harish R**  
+  *Security Researcher*  
+  Topic: Next-Gen Wi-Fi Security Trends
+
+- **Aaditya Rengarajan**  
+  *Ex-ISRO Intern & Security Researcher*  
+  Topic: Aviation Security
+
 <p>Join us for a day filled with insightful sessions on cybersecurity, technology, and related topics. This is a fantastic opportunity to connect with industry experts and enthusiasts.</p>
 
 <div style="text-align: center;">
