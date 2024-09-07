@@ -9,10 +9,44 @@ tags: next-tag
 
 <h2>Past Events</h2>
 
+<details>
+  <summary>24 August 2024 - OWASP & Null Combined Coimbatore Chapter Meetup</summary>
+  <p>
+    <strong>OWASP & Null Combined Coimbatore Chapter Meetup</strong>
+    <br>
+    <div style="display: flex; justify-content: space-between;">
+      <img src="assets/images/events/owasp_null_meetup_24_8_2024_1.png" width="270" height="337.5">
+      <img src="assets/images/events/owasp_null_meetup_24_8_2024_2.png" width="270" height="337.5">
+      <img src="assets/images/events/owasp_null_meetup_24_8_2024_3.png" width="270" height="337.5">
+    </div>
+    <br>
+    <strong>Date:</strong> Saturday, August 24, 2024
+    <br>
+    <strong>Time:</strong> 9:30 AM – 4:30 PM (IST)
+    <br>
+    <strong>Location:</strong> Sri Krishna College of Arts and Science, Kuniyamuthur, Coimbatore - 641008
+    <br>
+    <br>
+    <strong>Agenda</strong>
+    <ul>
+      <li>9:30 AM - 10:00 AM: Introduction and Welcome Note by Arun.S </li>
+      <li>10:00 AM - 10:45 AM: Jeet Raj Kumar - <em>Challenges in Enterprise DevSecOps & Increasing Security Testing Efficiency</em></li>
+      <li>10:45 AM - 11:30 AM: Subash Jaganathan - <em>Digital Forensics & Incident Response Operations</em></li>
+      <li>11:30 AM - 12:15 PM: Vignesh Chandrasekaran - <em>Purple Team Tabletop Exercise</em></li>
+      <li>12:15 PM - 12:45 PM: Networking Session - <em>Join us for engaging discussions and networking opportunities with industry experts!</em></li>
+      <li>12:45 PM - 1:45 PM: Lunch Break - <em>Bon Appetit!!!</em></li>
+      <li>1:45 PM - 2:30 PM: Avinash R - <em>Web Application Pentesting</em></li>
+      <li>2:30 PM - 3:15 PM: Harish R - <em>Next-Gen Wi-Fi Security Trends</em></li>
+      <li>3:15 PM - 4:00 PM: Aaditya Rengarajan - <em>Aviation Security</em></li>
+      <li>4:00 PM - 4:30 PM: Closing Note & Plan for Next Monthly Meet</li>
+    </ul>
+  </p>
+</details>
+
 <hr>
 
 <details>
-  <summary>6 July 2024, 05:45 PM - OWASP Coimbatore Combined Monthly Meetup</summary>
+  <summary>6 July 2024 - OWASP Coimbatore Combined Monthly Meetup</summary>
   <p>
     <strong>OWASP Coimbatore Combined Monthly Meetup</strong>
     <br>
@@ -43,7 +77,7 @@ tags: next-tag
 <hr>
 
 <details>
-  <summary>30 December 2022, 07:30 PM - A webinar on Cyber Forensics</summary>
+  <summary>30 December 2022 - A webinar on Cyber Forensics</summary>
   <p>
     <strong>A webinar on Cyber Forensics</strong>
     <br>
@@ -54,7 +88,7 @@ tags: next-tag
 <hr>
 
 <details>
-  <summary>9 April 2022, 06:30 PM - A webinar on Introduction to Bug Bounty</summary>
+  <summary>9 April 2022 - A webinar on Introduction to Bug Bounty</summary>
   <p>
     <strong>A webinar on Introduction to Bug Bounty</strong>
     <br>
@@ -65,7 +99,7 @@ tags: next-tag
 <hr>
 
 <details>
-  <summary>19 March 2022, 06:30 PM - A webinar on Cyber Crime Investigation: Indian Scenario by Subash J.</summary>
+  <summary>19 March 2022 - A webinar on Cyber Crime Investigation: Indian Scenario by Subash J.</summary>
   <p>
     <strong>A webinar on Cyber Crime Investigation: Indian Scenario by Subash J.</strong>
     <br>
@@ -76,7 +110,7 @@ tags: next-tag
 <hr>
 
 <details>
-  <summary>21 October 2021, 3:00 PM - 4:20 PM - Hosted a webinar on Open Source Intelligence (OSINT)</summary>
+  <summary>21 October 2021 - 4:20 PM - Hosted a webinar on Open Source Intelligence (OSINT)</summary>
   <p>
     <strong>Hosted a webinar on Open Source Intelligence (OSINT)</strong>
     <br>
@@ -87,7 +121,7 @@ tags: next-tag
 <hr>
 
 <details>
-  <summary>27 September 2020, 11:30 AM - 1:00 PM - OWASP Tiruvallur in collaboration with OWASP Coimbatore conducted a free cyber meetup</summary>
+  <summary>27 September 2020 - OWASP Tiruvallur in collaboration with OWASP Coimbatore conducted a free cyber meetup</summary>
   <p>
     <strong>OWASP Tiruvallur in collaboration with OWASP Coimbatore conducted a free cyber meetup.</strong>
     Adithyan AK from OWASP Coimbatore delivered a session on Open Source Intelligence.
@@ -99,7 +133,7 @@ tags: next-tag
 <hr>
 
 <details>
-  <summary>3rd May 2020, 11:30 AM - Let's Recon by Mr. Vignesh C</summary>
+  <summary>3rd May 2020 - Let's Recon by Mr. Vignesh C</summary>
   <p>
     <strong>Let's Recon by Mr. Vignesh C</strong>
     <br>
@@ -114,7 +148,7 @@ tags: next-tag
 <hr>
 
 <details>
-  <summary>2nd February 2020, 6:00 PM - 8:00 PM - OWASP Coimbatore Python - Security Essentials Webinar</summary>
+  <summary>2nd February 2020 - OWASP Coimbatore Python - Security Essentials Webinar</summary>
   <p>
     <strong>OWASP Coimbatore Python - Security Essentials Webinar</strong>
     <br>
@@ -125,7 +159,7 @@ tags: next-tag
 <hr>
 
 <details>
-  <summary>13th December 2019, 7:00 PM - 9:00 PM - OWASP Coimbatore Bug Bounty Webinar</summary>
+  <summary>13th December 2019 - OWASP Coimbatore Bug Bounty Webinar</summary>
   <p>
     <strong>OWASP Coimbatore Bug Bounty Webinar</strong>
     <br>
@@ -136,7 +170,7 @@ tags: next-tag
 <hr>
 
 <details>
-  <summary>29th September 2019, 7:30 PM - 8:30 PM - OWASP Coimbatore Ethical Hacking Hands-On Webinar in Tamil</summary>
+  <summary>29th September 2019 - OWASP Coimbatore Ethical Hacking Hands-On Webinar in Tamil</summary>
   <p>
     <strong>OWASP Coimbatore Ethical Hacking Hands-On Webinar in Tamil</strong>
     <br>
@@ -147,7 +181,7 @@ tags: next-tag
 <hr>
 
 <details>
-  <summary>21st June 2019, 6:00 PM - 8:00 PM - OWASP Coimbatore Application Security Online Workshop</summary>
+  <summary>21st June 2019 - OWASP Coimbatore Application Security Online Workshop</summary>
   <p>
     <strong>OWASP Coimbatore Application Security Online Workshop</strong>
     <br>
@@ -158,7 +192,7 @@ tags: next-tag
 <hr>
 
 <details>
-  <summary>16th April 2019, 2:30 PM - OWASP Coimbatore Monthly Chapter Meetup</summary>
+  <summary>16th April 2019 - OWASP Coimbatore Monthly Chapter Meetup</summary>
   <p>
     <strong>OWASP Coimbatore Monthly Chapter Meetup</strong>
     <br>
@@ -169,7 +203,7 @@ tags: next-tag
 <hr>
 
 <details>
-  <summary>12th March 2019, 6:00 PM - OWASP Coimbatore Monthly Chapter Meetup</summary>
+  <summary>12th March 2019 - OWASP Coimbatore Monthly Chapter Meetup</summary>
   <p>
     <strong>OWASP Coimbatore Monthly Chapter Meetup</strong>
     <br>
@@ -232,7 +266,7 @@ tags: next-tag
       <li>11:30 AM – 12:30 PM => Buffer Overflows and Exploit Development- Mohan Ravinchandran</li>
       <li>12:30 PM – 12:45 PM => Ending ceremony</li>
     </ul>
-    <strong>Venue</strong> Sri Krishna College of Engineering and Technology, Bkpudur, Coimbatore - 641008
+    <strong>Venue</strong> Sri Krishna College of Engineering and Technology, Bkpudur, Coimbatore - 641008.
   </p>
 </details>
 
