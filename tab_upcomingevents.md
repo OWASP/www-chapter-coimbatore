@@ -15,12 +15,13 @@ tags: next-tag
 🕕 **Time:** 6:00 PM - 7:00 PM  
 📍 **Venue:** Online | Google Meet
 
- **Our Speaker**
+<h3>Our Speaker</h3>
 
-**Vasanthabalaji**  
+Vasanthabalaji
+
 *Cloud and Security Researcher*
 
-**Topic:** Understanding Cloud Security with G.O.A.T Tools
+<br>
 
 <div style="text-align: center;">
     <img src="assets/images/events/Monthly_meet_14-9-2024.png" alt="Event Poster" width="50%">
@@ -34,6 +35,7 @@ tags: next-tag
     </a>
 </div>
 
+<br>
 <hr>
 
 ![Coming Soon](assets/images/coming_soon_.gif)
