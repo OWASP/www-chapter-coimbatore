@@ -16,12 +16,12 @@ tags: next-tag
     <strong>Monthly Workshop - Understanding Cloud Security with GOAT Tools</strong>
     <br>
     <div style="display: flex; justify-content: space-between;">
-      <img src="" width="270" height="337.5">
+      <img src="assets/images/events/Monthly_Workshop_14-9-2024.png" width="270" height="337.5">
     </div>
     <br>
     <strong>Date:</strong> Saturday, September 14, 2024
     <br>
-    <strong>Time:</strong> 6:00 PM - 8:00 PM (IST)
+    <strong>Time:</strong> 6:00 PM - 7:00 PM (IST)
     <br>
     <strong>Venue:</strong> Online | Google Meet
     <br>
