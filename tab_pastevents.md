@@ -9,6 +9,29 @@ tags: next-tag
 
 <h2>Past Events</h2>
 
+
+<details>
+  <summary>14 September 2024 - Monthly Workshop - Understanding Cloud Security with GOAT Tools</summary>
+  <p>
+    <strong>Monthly Workshop - Understanding Cloud Security with GOAT Tools</strong>
+    <br>
+    <div style="display: flex; justify-content: space-between;">
+      <img src="" width="270" height="337.5">
+    </div>
+    <br>
+    <strong>Date:</strong> Saturday, September 14, 2024
+    <br>
+    <strong>Time:</strong> 6:00 PM - 8:00 PM (IST)
+    <br>
+    <strong>Venue:</strong> Online | Google Meet
+    <br>
+    <strong>Speaker:</strong> Vasanthabalaji (Cloud and Security Researcher)
+    <br>
+  </p>
+</details>
+
+<hr>
+
 <details>
   <summary>24 August 2024 - OWASP & Null Combined Coimbatore Chapter Meetup</summary>
   <p>
