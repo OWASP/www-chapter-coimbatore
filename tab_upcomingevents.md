@@ -20,8 +20,9 @@ tags: next-tag
 *Cyber Security Consultant*  
 
 <div style="text-align: center;">
-    <img src="assets/images/events/Monthly_workshop_19-10-2024.png" alt="Event Poster" width="50%">
+    <img src="https://github.com/OWASP/www-chapter-coimbatore/blob/master/assets/images/events/Monthly_workshop_19-10-2024.png" alt="Event Poster" width="50%">
 </div> 
+
 <br>
 
 [![Join Us](https://img.shields.io/badge/Join%20Us-Google%20Meet-FFEB3B?style=for-the-badge&logo=google-meet&logoColor=white&labelColor=F44336)](https://meet.google.com/brb-bpum-mpj)
