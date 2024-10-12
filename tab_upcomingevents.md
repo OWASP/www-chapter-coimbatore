@@ -16,7 +16,7 @@ tags: next-tag
 
 **Time:** 6:00 PM - 7:00 PM 
 
-**Venue:** Online | Google Meet 
+**Venue:** Online Google Meet 
 
 <h3>Our Speaker</h3> 
 Subash Jaganathan 
