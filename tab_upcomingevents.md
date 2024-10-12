@@ -19,8 +19,8 @@ tags: next-tag
 **Subash Jaganathan**  
 *Cyber Security Consultant*  
 
-<div style="text-align: center;">
-    <img src="https://github.com/OWASP/www-chapter-coimbatore/blob/master/assets/images/events/Monthly_workshop_19-10-2024.png" alt="Event Poster" width="50%">
+<div>
+    <img src="assets/images/events/Monthly_workshop_19-10-2024.png" alt="Event Poster" width="50%">
 </div> 
 
 <br>
