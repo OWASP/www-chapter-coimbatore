@@ -12,6 +12,7 @@
 * [Facebook](https://www.facebook.com/owaspcoimbatore/)
 * [LinkedIn](https://www.linkedin.com/company/owasp-coimbatore)
 * [WhatsApp](https://chat.whatsapp.com/BZtQpUzv3gUCpG625Vni3R)
+* [YouTube](https://www.youtube.com/@owaspcbe)
 
 ### Code Repository
 * [GitHub](https://github.com/OWASP/www-chapter-coimbatore)
