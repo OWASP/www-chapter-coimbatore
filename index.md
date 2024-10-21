@@ -26,8 +26,8 @@ OWASP Coimbatore Chapter is led by a passionate group of Chapter leaders - Subas
 
 *If you'd like to present a talk, please:*
 
-* Review and agree to the OWASP Speaker Agreement:[OWASP_Speaker_Agreement](https://owasp.org/www-policy/legal/speaker-agreement2)
-* Submit your talk proposal:[OWASP_Speaker_Registration](https://forms.gle/M7zLHXGAdo38Txo27)
+* Review and agree to the OWASP Speaker Agreement [OWASP_Speaker_Agreement](https://owasp.org/www-policy/legal/speaker-agreement)
+* Submit your talk proposal [OWASP_Speaker_Registration](https://forms.gle/M7zLHXGAdo38Txo27)
 
 **Next Meeting/Event(s)**
 
@@ -37,13 +37,13 @@ OWASP Coimbatore Chapter is led by a passionate group of Chapter leaders - Subas
 **Video Recordings of Past Events**
 
 * Catch up on past OWASP Coimbatore events by watching the recordings on our YouTube channel
-[OWASP_Coimbatore_Youtube_Page](https://www.youtube.com/owaspcoimbatore) 
+[OWASP_Coimbatore_Youtube_Page](https://www.youtube.com/@owaspcbe) 
 
 **Don't forget to SUBSCRIBE to get notified about new videos!!!**
 
 **Stay Connected**
 
-Follow us on Linktree for all our social media resources and our mailing list:[OWASP_Coimbatore_Useful_Social_Media_Links](https://linktr.ee/OWASP_CBE)  
+Follow us on Linktree for all our social media resources and our mailing list [OWASP_Coimbatore_Useful_Social_Media_Links](https://linktr.ee/OWASP_Coimbatore)  
 
 **Open to All**
 
