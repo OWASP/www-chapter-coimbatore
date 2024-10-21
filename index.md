@@ -32,7 +32,7 @@ OWASP Coimbatore Chapter is led by a passionate group of Chapter leaders - Subas
 **Next Meeting/Event(s)**
 
 * Stay tuned for upcoming OWASP Coimbatore Chapter meetings!!! 
-* We'll announce them on our Meetup page [OWASP_Coimbatore_Meetup_Page](https://www.meetup.com/owasp-coimbatore/) 
+* We'll announce them on our Meetup page [OWASP_Coimbatore_Meetup_Page](https://www.meetup.com/owasp-coimbatore-chapter)
 
 **Video Recordings of Past Events**
 
