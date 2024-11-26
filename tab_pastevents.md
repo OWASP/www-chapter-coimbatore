@@ -10,12 +10,12 @@ tags: next-tag
 <h2>Past Events</h2>
 
 <details>
-  <summary>19 October 2024 - Monthly Workshop - Mobile Pentesting</summary>
+  <summary>26 October 2024 - Monthly Workshop - Mobile Pentesting</summary>
   <p>
     <strong>Monthly Workshop - Drone Forensics 101</strong>
     <br>
     <div style="display: flex; justify-content: space-between;">
-      <img src="assets/images/events/Monthly_Workshop_26-10-2024.png" width="270" height="337.5">
+      <img src="assets/images/events/Monthly_Workshop_26_10_2024.png" width="270" height="337.5">
     </div>
     <br>
     <strong>Date:</strong> Saturday, October 26, 2024
