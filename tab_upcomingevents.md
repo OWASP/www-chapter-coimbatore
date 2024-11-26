@@ -9,23 +9,23 @@ tags: next-tag
 
 # Upcoming Events
 
-## Monthly Workshop - Mobile Pentesting
+## Monthly Workshop - Intro to Red Teaming
 
-**Date:** Saturday, October 26, 2024  
-**Time:** 6:00 PM - 7:00 PM  
+**Date:** Saturday, Novmber 30, 2024
+**Time:** 6:00 PM - 8:00 PM  
 **Venue:** Online Google Meet  
 
 ### Our Speaker
 **Sridhar**  
-*Senior Cyber Security Consultant at EY*  
+*Cyber Security Consultant*  
 
 <div>
-    <img src="assets/images/events/Monthly_Workshop_26_10_2024.png" alt="Event Poster" width="50%">
+    <img src="assets/images/events/Monthly_Workshop_30_11_2024.png" alt="Event Poster" width="50%">
 </div> 
 
 <br>
 
-[![Join Us](https://img.shields.io/badge/Join%20Us-Google%20Meet-FFEB3B?style=for-the-badge&logo=google-meet&logoColor=white&labelColor=F44336)](https://meet.google.com/fyj-fuws-bvj)
+[![Join Us](https://img.shields.io/badge/Join%20Us-Google%20Meet-FFEB3B?style=for-the-badge&logo=google-meet&logoColor=white&labelColor=F44336)](https://meet.google.com/gzf-qxgz-ett)
 
 ---
 
