@@ -9,23 +9,36 @@ tags: next-tag
 
 # Upcoming Events
 
-## Monthly Workshop - Intro to Red Teaming
+## Offline Meetup Event
 
-**Date:** Saturday, Novmber 30, 2024
-**Time:** 6:00 PM - 8:00 PM  
-**Venue:** Online Google Meet  
+**Date:** Saturday, December 21, 2024
+**Time:** 9:30 AM - 4:00 PM IST 
+**Venue:** Kumaraguru School of Innovation, Kumaraguru College of Technology, Coimbatore.Kumaraguru School of Innovation, Kumaraguru College of Technology, Coimbatore.
 
-### Our Speaker
-**Sridhar**  
-*Cyber Security Consultant*  
+Be part of our offline meetup featuring
+
+Expert sessions on DevSecOps, AI Cybersecurity, Red Teaming and more
+
+Networking with cybersecurity professionals
+
+Exciting giveaways for participants
+
+Organized by OWASP Coimbatore, The Hackers Meetup, and Defcon Coimbatore.
+
+Hosted by
+Kumaraguru school of Innovation.
+
+FREE Registration!
+https://forms.gle/gmZhW7oGq8JbmAtG7
+
+Call for speaker
+https://forms.gle/NsfP14jQidXZxSKL8
 
 <div>
-    <img src="assets/images/events/Monthly_Workshop_30_11_2024.png" alt="Event Poster" width="50%">
+    <img src="assets/images/events/owasp_null_meetup_21_11_2024.png.jpg" alt="Event Poster" width="50%">
 </div> 
 
 <br>
-
-[![Join Us](https://img.shields.io/badge/Join%20Us-Google%20Meet-FFEB3B?style=for-the-badge&logo=google-meet&logoColor=white&labelColor=F44336)](https://meet.google.com/gzf-qxgz-ett)
 
 ---
 
