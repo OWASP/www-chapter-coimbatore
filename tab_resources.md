@@ -11,6 +11,7 @@ tags: next-tag
 
 | Date                | Topic                                                               | Download Link                                                                                              |
 |---------------------|---------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| 30 November 2024     | **Monthly Workshop - Intro to Red Teaming**                        |  [Intro to Red Teaming](assets/files/Intro to Red Teaming.pptx) [Intro to Red Teaming](assets/files/02_DJI_Mavic_Air_microSD_encase.pdf) |
 | 19 October 2024     | **Monthly Workshop - Drone Forensics - 101**                        |  [DJI Mavic Air Mobile](assets/files/00_DJI_Mavic_Air_Mobile.pdf) [Mavic_Air_microSD](assets/files/02_DJI_Mavic_Air_microSD_encase.pdf) |
 | 14 September 2024   | **Monthly Workshop - Understanding Cloud Security with GOAT Tools** |  [Download]()                                            |                                                                
 | 28 August 2024      | **OWASP & Null Combined Coimbatore Chapter Meetup** Offline         |                                                                                                           |
