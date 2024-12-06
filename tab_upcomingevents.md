@@ -15,24 +15,24 @@ tags: next-tag
 **Time:** 9:30 AM - 4:00 PM IST <br>
 **Venue:** Kumaraguru School of Innovation, Kumaraguru College of Technology, Coimbatore.
 
-Be part of our offline meetup featuring
+**Be part of our offline meetup featuring**
 
-Expert sessions on DevSecOps, AI Cybersecurity, Red Teaming and more
+**Expert sessions on DevSecOps, AI Cybersecurity, Red Teaming and more**
 
-Networking with cybersecurity professionals
+**Networking with cybersecurity professionals**
 
-Exciting giveaways for participants
+**Exciting giveaways for participants**
 
-Organized by OWASP Coimbatore, The Hackers Meetup, and Defcon Coimbatore.
+**Organized by OWASP Coimbatore, The Hackers Meetup, and Defcon Coimbatore.**
 
-Hosted by
+**Hosted by** <br>
 Kumaraguru school of Innovation.
 
-FREE Registration!
-<i> https://forms.gle/gmZhW7oGq8JbmAtG7 </i>
+**FREE Registration!**
+(https://forms.gle/gmZhW7oGq8JbmAtG7)
 
-Call for speaker
-<i> https://forms.gle/NsfP14jQidXZxSKL8 <i>
+**Call for speaker**
+(https://forms.gle/NsfP14jQidXZxSKL8)
 
 <div>
     <img src="assets/images/events/owasp_null_meetup_21_11_2024.png.jpg" alt="Event Poster" width="50%">
