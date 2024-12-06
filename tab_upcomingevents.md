@@ -28,11 +28,11 @@ tags: next-tag
 **Hosted by** <br>
 Kumaraguru school of Innovation.
 
-**FREE Registration!**
-(https://forms.gle/gmZhW7oGq8JbmAtG7)
+**FREE Registration**
+[Click Here to Join our Event](https://forms.gle/gmZhW7oGq8JbmAtG7)
 
 **Call for speaker**
-(https://forms.gle/NsfP14jQidXZxSKL8)
+[Click Here to Register yourself asa Speaker](https://forms.gle/NsfP14jQidXZxSKL8)
 
 <div>
     <img src="assets/images/events/owasp_null_meetup_21_11_2024.png.jpg" alt="Event Poster" width="50%">
