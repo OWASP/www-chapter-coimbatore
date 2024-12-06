@@ -29,10 +29,10 @@ Hosted by
 Kumaraguru school of Innovation.
 
 FREE Registration!
-https://forms.gle/gmZhW7oGq8JbmAtG7
+<i> https://forms.gle/gmZhW7oGq8JbmAtG7 </i>
 
 Call for speaker
-https://forms.gle/NsfP14jQidXZxSKL8
+<i> https://forms.gle/NsfP14jQidXZxSKL8 <i>
 
 <div>
     <img src="assets/images/events/owasp_null_meetup_21_11_2024.png.jpg" alt="Event Poster" width="50%">
