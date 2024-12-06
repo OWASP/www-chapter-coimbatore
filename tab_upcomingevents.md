@@ -11,9 +11,9 @@ tags: next-tag
 
 ## Offline Meetup Event
 
-**Date:** Saturday, December 21, 2024
-**Time:** 9:30 AM - 4:00 PM IST 
-**Venue:** Kumaraguru School of Innovation, Kumaraguru College of Technology, Coimbatore.Kumaraguru School of Innovation, Kumaraguru College of Technology, Coimbatore.
+**Date:** Saturday, December 21, 2024 <br>
+**Time:** 9:30 AM - 4:00 PM IST <br>
+**Venue:** Kumaraguru School of Innovation, Kumaraguru College of Technology, Coimbatore.
 
 Be part of our offline meetup featuring
 
