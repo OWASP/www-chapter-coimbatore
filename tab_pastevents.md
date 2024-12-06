@@ -10,7 +10,7 @@ tags: next-tag
 <h2>Past Events</h2>
 
 <details>
-  <summary>30 November 2024 - Monthly Workshop - Intro to red Teaming</summary>
+  <summary>30 November 2024 - Monthly Workshop - Intro to Red Teaming</summary>
   <p>
     <strong>Monthly Workshop - Drone Forensics 101</strong>
     <br>
