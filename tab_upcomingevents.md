@@ -38,6 +38,32 @@ Kumaraguru school of Innovation.
     <img src="assets/images/events/owasp_null_meetup_21_11_2024.png.jpg" alt="Event Poster" width="50%">
 </div> 
 
+**Our Speakers and Agenda**
+
+**Speakers**
+<div>
+    <img src="assets/images/events/Speaker 1.jpg" alt="Event Poster" width="50%">
+</div> 
+
+<div>
+    <img src="assets/images/events/Speaker 2.jpg" alt="Event Poster" width="50%">
+</div> 
+
+<div>
+    <img src="assets/images/events/Speaker 3.jpg" alt="Event Poster" width="50%">
+</div> 
+
+<div>
+    <img src="assets/images/events/Speaker 4.jpg" alt="Event Poster" width="50%">
+</div> 
+
+<br>
+
+**Agenda**
+<div>
+    <img src="assets/images/events/Agenda.jpg" alt="Event Poster" width="50%">
+</div> 
+
 <br>
 
 ---
