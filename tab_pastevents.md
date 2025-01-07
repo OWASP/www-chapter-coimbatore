@@ -10,6 +10,26 @@ tags: next-tag
 <h2>Past Events</h2>
 
 <details>
+  <summary>21 December 2024 - Offline Meetup Event</summary>
+  <p>
+    <strong>Offline Meetup Event</strong>
+    <br>
+    <div style="display: flex; justify-content: space-between;">
+      <img src="assets/images/events/owasp_null_meetup_21_11_2024.png.jpg" alt="Event Poster" width="50%">
+    </div>
+    <br>
+    <strong>Date:</strong> Sunday, December 27, 2024
+    <br>
+    <strong>Time:</strong> 9:30 AM - 4:00 PM (IST)
+    <br>
+    <strong>Venue:</strong> Kumaraguru School of Innovation, Kumaraguru College of Technology, Coimbatore.
+    <br>
+  </p>
+</details>
+
+<hr>
+
+<details>
   <summary>30 November 2024 - Monthly Workshop - Intro to Red Teaming</summary>
   <p>
     <strong>Monthly Workshop - Drone Forensics 101</strong>
