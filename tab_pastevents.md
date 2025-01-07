@@ -18,7 +18,7 @@ tags: next-tag
       <img src="assets/images/events/owasp_null_meetup_21_11_2024.png.jpg" alt="Event Poster" width="50%">
     </div>
     <br>
-    <strong>Date:</strong> Sunday, December 27, 2024
+    <strong>Date:</strong> Sunday, December 21, 2024
     <br>
     <strong>Time:</strong> 9:30 AM - 4:00 PM (IST)
     <br>
