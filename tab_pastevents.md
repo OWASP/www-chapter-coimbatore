@@ -15,7 +15,7 @@ tags: next-tag
     <strong>Monthly Workshop - From Code to Compliance (Devsecops)</strong>
     <br>
     <div style="display: flex; justify-content: space-between;">
-      <img src="assets/images/events/Monthly_Workshop_Feb.jpg" width="270" height="337.5">
+      <img src="assets/images/events/Monthly_workshop_Feb.jpg" width="270" height="337.5">
     </div>
     <br>
     <strong>Date:</strong> Saturday, February 15, 2025
@@ -28,7 +28,7 @@ tags: next-tag
     <br>
   </p>
 </details>
-
+<hr>
 <details>
   <summary>25 January 2025 - Monthly Workshop - Web Attack - HTTP Smuggling Attacks</summary>
   <p>
@@ -48,7 +48,7 @@ tags: next-tag
     <br>
   </p>
 </details>
-
+<hr>
 <details>
   <summary>21 December 2024 - Offline Meetup Event</summary>
   <p>
