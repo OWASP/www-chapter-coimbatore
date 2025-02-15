@@ -10,6 +10,46 @@ tags: next-tag
 <h2>Past Events</h2>
 
 <details>
+  <summary>15 February 2025 - Monthly Workshop - From Code to Compliance (Devsecops)</summary>
+  <p>
+    <strong>Monthly Workshop - From Code to Compliance (Devsecops)</strong>
+    <br>
+    <div style="display: flex; justify-content: space-between;">
+      <img src="assets/images/events/Monthly_Workshop_Feb.jpg" width="270" height="337.5">
+    </div>
+    <br>
+    <strong>Date:</strong> Saturday, February 15, 2025
+    <br>
+    <strong>Time:</strong> 6:00 PM - 7:30 PM (IST)
+    <br>
+    <strong>Venue:</strong> Online | Google Meet
+    <br>
+    <strong>Speaker:</strong> Sridhar Cyber Se curity Consultant
+    <br>
+  </p>
+</details>
+
+<details>
+  <summary>25 January 2025 - Monthly Workshop - Web Attack - HTTP Smuggling Attacks</summary>
+  <p>
+    <strong>Monthly Workshop - Web Attack - HTTP Smuggling Attacks</strong>
+    <br>
+    <div style="display: flex; justify-content: space-between;">
+      <img src="assets/images/events/Monthly_Workshop_Jan.jpg" width="270" height="337.5">
+    </div>
+    <br>
+    <strong>Date:</strong> Saturday, January 25, 2025
+    <br>
+    <strong>Time:</strong> 5:00 PM - 6:00 PM (IST)
+    <br>
+    <strong>Venue:</strong> Online | Google Meet
+    <br>
+    <strong>Speaker:</strong> Ashwin Ragav 
+    <br>
+  </p>
+</details>
+
+<details>
   <summary>21 December 2024 - Offline Meetup Event</summary>
   <p>
     <strong>Offline Meetup Event</strong>
@@ -44,7 +84,7 @@ tags: next-tag
     <br>
     <strong>Venue:</strong> Online | Google Meet
     <br>
-    <strong>Speaker:</strong> Sridhar Cyber Se curity Consultant
+    <strong>Speaker:</strong> Sridhar Cyber Security Consultant
     <br>
   </p>
 </details>
