@@ -35,7 +35,7 @@ tags: next-tag
     <strong>Monthly Workshop - Web Attack - HTTP Smuggling Attacks</strong>
     <br>
     <div style="display: flex; justify-content: space-between;">
-      <img src="assets/images/events/Monthly_Workshop_Jan.jpg" width="270" height="337.5">
+      <img src="assets/images/events/Montly_Workshop_Jan.jpg" width="270" height="337.5">
     </div>
     <br>
     <strong>Date:</strong> Saturday, January 25, 2025
