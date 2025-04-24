@@ -11,7 +11,7 @@ tags: next-tag
 
 Would you like to speak at the upcoming OWASP Coimbatore Event/Webinar? 
 
-Submit your interest using the following Google Form link [![Speaker Registration](https://img.shields.io/badge/Google%20Form-Speaker%20Registration-red)](https://forms.gle/AwbgTT8XnSVzLMY37)
+Submit your interest using the following Google Form link [![Speaker Registration](https://img.shields.io/badge/Google%20Form-Speaker%20Registration-red)](https://forms.gle/XmkgVeeLrCLgmFcWA)
 
 For More Queries Contact
 
