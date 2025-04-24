@@ -36,33 +36,44 @@ tags: next-tag
  [Click Here to Register yourself as a Speaker](https://forms.gle/XmkgVeeLrCLgmFcWA)
  
  <div>
-     <img src="" alt="Event Poster" width="50%">
+     <img src="assets/images/events/Event_May_10_2025/Announcement_Post.png" alt="Event Poster" width="50%">
  </div> 
  
- **Our Speakers and Agenda**
+ <br>
+ 
+ **Our Speakers, Networking Experts and Agenda**
  
  **Speakers**
  <div>
-     <img src="" alt="Event Poster" width="50%">
+     <img src="assets/images/events/Event_May_10_2025/Speaker_Post_1.png" alt="Event Poster" width="50%">
  </div> 
  
  <div>
-     <img src="" alt="Event Poster" width="50%">
+     <img src="assets/images/events/Event_May_10_2025/Speaker_Post_2.png" alt="Event Poster" width="50%">
  </div> 
  
  <div>
-     <img src="" alt="Event Poster" width="50%">
+     <img src="assets/images/events/Event_May_10_2025/Speaker_Post_3.png" alt="Event Poster" width="50%">
  </div> 
  
  <div>
-     <img src="" alt="Event Poster" width="50%">
+     <img src="assets/images/events/Event_May_10_2025/Speaker_Post_4.png" alt="Event Poster" width="50%">
+ </div> 
+ 
+ <br>
+ 
+ **Networking Experts**
+ 
+ <div>
+     <img src="assets/images/events/Event_May_10_2025/Networking_Persons.png" alt="Event Poster" width="50%">
  </div> 
  
  <br>
  
  **Agenda**
+ 
  <div>
-     <img src="" alt="Event Poster" width="50%">
+     <img src="assets/images/events/Event_May_10_2025/Agenda.png" alt="Event Poster" width="50%">
  </div> 
  
  <br>
