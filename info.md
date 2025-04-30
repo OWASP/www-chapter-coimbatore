@@ -1,9 +1,6 @@
 ### Chapter Information
 
-
-
-![OWASP Coimbatore Chapter](OWASP_Cbe_logo.png
-"OWASP Coimbatore Chapter")
+![OWASP Coimbatore Chapter](assets/images/OWASP_Cbe_logo.png)
 
 ### Social Handles
 
