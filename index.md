@@ -11,7 +11,7 @@ meetup-group: owasp-coimbatore
 
 # OWASP Coimbatore Chapter
 
-![OWASP Coimbatore Chapter](/assets/images/OWASP_Cbe_Banner.png)
+![OWASP Coimbatore Chapter](/assets/images/OWASP_Cbe_banner.png)
 
 **Welcome to the OWASP Coimbatore chapter homepage!**
 
