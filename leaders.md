@@ -1,9 +1,9 @@
 ### Leaders
 
-* [Avinash Ravi](mailto:avinash.ravi@owasp.org)
-* [Arun Saravanan](mailto:arun.saravanan@owasp.org)
-* [Rohit Saravanan](mailto:rohit.saravanan@owasp.org)
+* [Avinash R](mailto:avinash.ravi@owasp.org)
 * [Subash Jaganathan](mailto:subash.jaganathan@owasp.org)
+* [Rohit Saravanan](mailto:rohit.saravanan@owasp.org)
+* [Arun Saravanan](mailto:arun.saravanan@owasp.org)
 
 ### Coordinators
 
