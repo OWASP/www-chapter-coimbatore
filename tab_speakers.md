@@ -15,5 +15,5 @@ Submit your interest using the following Google Form link [![Speaker Registratio
 
 For More Queries Contact
 
-- [Arun Saravanan](mailto:arun.saravanan@owasp.org) Participation queries
+- [Avinash R](mailto:avinash.ravi@owasp.org) Participation queries
 - [Subash Jaganathan](mailto:owaspcoimbatore@gmail.com) Registration queries
