@@ -10,6 +10,25 @@ tags: next-tag
 <h2>Past Events</h2>
 
 <details>
+  <summary>10 May 2025 - Offline Meetup Event (May 2025)</summary>
+  <p>
+    <strong>Offline Meetup - May 2025</strong>
+    <br>
+    <div>
+      <img src="assets/images/events/Event_May_10_2025/Agenda.png" alt="Event Poster" width="50%">
+    </div> 
+    <br>
+    <strong>Date:</strong> Saturday, May 10, 2025
+    <br>
+    <strong>Time:</strong> 9:30 AM - 4:00 PM (IST)
+    <br>
+    <strong>Venue:</strong> : Sri Eshwar College of Engineering, Kinathukadavu, Coimbatore - 641202
+    <br>
+  </p>
+</details>
+<hr>
+
+<details>
   <summary>15 February 2025 - Monthly Workshop - From Code to Compliance (Devsecops)</summary>
   <p>
     <strong>Monthly Workshop - From Code to Compliance (Devsecops)</strong>
