@@ -24,7 +24,7 @@ tags: next-tag
     <br>
     <strong>Venue:</strong> Online | Google Meet
     <br>
-    <strong>Speaker:</strong> Sridhar Cyber Se curity Consultant
+    <strong>Speaker:</strong> Abhinav Kishore GV | Senior DevSecOPS Engineer @Sailpoint
     <br>
   </p>
 </details>
