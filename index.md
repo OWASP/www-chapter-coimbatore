@@ -16,7 +16,7 @@ meetup-group: owasp-coimbatore
 **Welcome to the OWASP Coimbatore chapter homepage!**
 
 The OWASP Coimbatore chapter is dedicated to promoting application security awareness, knowledge sharing, and collaboration among security professionals in the Coimbatore region. 
-OWASP Coimbatore Chapter is led by a passionate group of Chapter leaders - Avinash R, Subash Jaganathan, Rohit Saravanan, Arun Saravanan.
+OWASP Coimbatore Chapter is led by a passionate group of Chapter leaders - Avinash R, Subash Jaganathan and Rohit Saravanan
 
 **Call for Speakers**
 
@@ -54,4 +54,4 @@ Our meetings are open to the public – no membership is required! We encourage 
 
 * Please do consider [joining OWASP](https://owasp.org/membership/)
 * If you find our community, projects, and meetings valuable, consider joining OWASP or becoming a chapter sponsor. Your support helps us continue our mission!
-Please provide your interest in venue sponsorship to EMAIL: avinash.ravi@owasp.org / subash.jaganathan@owasp.org / rohit.saravanan@owasp.org / arun.saravanan@owasp.org.
+Please provide your interest in venue sponsorship to EMAIL: avinash.ravi@owasp.org / subash.jaganathan@owasp.org / rohit.saravanan@owasp.org.
