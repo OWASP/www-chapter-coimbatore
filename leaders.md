@@ -3,7 +3,6 @@
 * [Avinash R](mailto:avinash.ravi@owasp.org)
 * [Subash Jaganathan](mailto:subash.jaganathan@owasp.org)
 * [Rohit Saravanan](mailto:rohit.saravanan@owasp.org)
-* [Arun Saravanan](mailto:arun.saravanan@owasp.org)
 
 ### Coordinators
 
