@@ -4,11 +4,11 @@
 
 ### Social Handles
 
-* [Meetup](https://www.meetup.com/owasp-coimbatore/)
+* [Meetup](https://www.meetup.com/owasp-coimbatore-chapter/)
 * [Instagram](https://www.instagram.com/owasp_coimbatore/)
 * [Facebook](https://www.facebook.com/owaspcoimbatore/)
 * [LinkedIn](https://www.linkedin.com/company/owasp-coimbatore)
-* [WhatsApp](https://chat.whatsapp.com/BZtQpUzv3gUCpG625Vni3R)
+* [WhatsApp](https://chat.whatsapp.com/HOUQsncG2wzFFfwmCv2XTI)
 * [YouTube](https://www.youtube.com/@owaspcbe)
 
 ### Code Repository
