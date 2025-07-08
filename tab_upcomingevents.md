@@ -24,7 +24,6 @@ tags: next-tag
   <strong>Time:</strong> 6:00 PM - 7:30 PM (IST)
   <br>
   <strong>Venue:</strong> Online|Zoom
-  <br>
   [click here](https://example.com)
   [Abarna](https://www.linkedin.com/in/abarna-/)
 </p>
