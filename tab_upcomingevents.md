@@ -27,7 +27,6 @@ tags: next-tag
   <br>
   [click here](https://example.com)
   [Abarna](https://www.linkedin.com/in/abarna-/)
-  <br>
 </p>
 
 
