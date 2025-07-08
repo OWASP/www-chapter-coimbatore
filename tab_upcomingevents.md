@@ -24,7 +24,7 @@ tags: next-tag
   <br>
   <strong>Venue:</strong> Online|Zoom
   <br>
-  [click here](https://example.com
+  [click here](https://example.com)
   <!-- <strong>Registration link:</strong> [Click here](https://forms.gle/aHxGqzjZwsHBJcG99)-->
   <br>
 </p>
