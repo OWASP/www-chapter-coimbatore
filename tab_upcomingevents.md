@@ -10,19 +10,16 @@ tags: next-tag
 # Upcoming Events
 
 <!-- [Coming Soon](assets/images/coming_soon_.gif) -->
-<summary>10 May 2025 - Offline Meetup Event (May 2025)</summary>
+<summary>12 July 2025 - Online Workshop (July 2025)</summary>
 <p>
   <strong>Online Meetup - July 2025</strong>
   <br>
   <div>
-    <img src="assets/images/events/Event_May_10_2025/Agenda.png" alt="Event Poster" width="50%">
+    <img src="assets/images/events/July'25/Monthly workshop OWASP- July 12.png" alt="Event Poster" width="50%">
   </div> 
-  <br>
-  <strong>Date:</strong> Saturday, May 10, 2025
-  <br>
-  <strong>Time:</strong> 9:30 AM - 4:00 PM (IST)
-  <br>
-  <strong>Venue:</strong> : Sri Eshwar College of Engineering, Kinathukadavu, Coimbatore - 641202
+  <strong>Date:</strong> Saturday, July 12, 2025
+  <strong>Time:</strong> 6:00 PM - 7:30 PM (IST)
+  <strong>Venue:</strong> Online|Zoom
   <br>
 </p>
 
