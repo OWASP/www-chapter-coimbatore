@@ -10,7 +10,7 @@ tags: next-tag
 # Upcoming Events
 
 <!-- [Coming Soon](assets/images/coming_soon_.gif) -->
-<!-- <strong>Registration link:</strong> [Click here](https://forms.gle/aHxGqzjZwsHBJcG99) -->
+
 <summary>12 July 2025 - Online Workshop (July 2025)</summary>
 <p>
   <strong>Online Meetup - July 2025</strong>
@@ -24,8 +24,8 @@ tags: next-tag
   <strong>Time:</strong> 6:00 PM - 7:30 PM (IST)
   <br>
   <strong>Venue:</strong> Online|Zoom
-  [click here](https://example.com)
-  [Abarna](https://www.linkedin.com/in/abarna-/)
+  <br>
+  <strong>Registration link: </strong>(https://forms.gle/aHxGqzjZwsHBJcG99)
 </p>
 
 
