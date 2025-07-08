@@ -11,7 +11,7 @@ tags: next-tag
 
 | Date                 | Topic                                                               | Download Link                                                                                              |
 |----------------------|---------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| 12 July 2025         | **Monthly Workshop - FROM CIPHER TO CLEARTEXT: A HACKER'S GUIDE TO BEATING IOS ENCRYPTION**                         |  [TBD](https://owasp.org/www-chapter-coimbatore/)                                                  |
+| 12 July 2025         | **Monthly Workshop - From Cipher to Cleartext: A Hacker's Guide to Beating IOS Encryption**                         |  [TBD](https://owasp.org/www-chapter-coimbatore/)                                                  |
 | 30 November 2024     | **Monthly Workshop - Intro to Red Teaming**                         |  [Download](assets/files/Intro%20to%20Red%20Teaming.pptx)                                                  |
 | 19 October 2024      | **Monthly Workshop - Drone Forensics - 101**                        |  [DJI Mavic Air Mobile](assets/files/00_DJI_Mavic_Air_Mobile.pdf) [Mavic_Air_microSD](assets/files/02_DJI_Mavic_Air_microSD_encase.pdf) |
 | 14 September 2024    | **Monthly Workshop - Understanding Cloud Security with GOAT Tools** |  [Download]()                                            |                                                                
