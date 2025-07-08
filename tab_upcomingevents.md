@@ -26,6 +26,7 @@ tags: next-tag
   <strong>Venue:</strong> Online|Zoom
   <br>
   [click here](https://example.com)
+  [Abarna](https://www.linkedin.com/in/abarna-/)
   <br>
 </p>
 
