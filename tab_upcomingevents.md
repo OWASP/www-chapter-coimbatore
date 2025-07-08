@@ -19,8 +19,12 @@ tags: next-tag
   </div> 
   <br>
   <strong>Date:</strong> Saturday, July 12, 2025
+  <br>
   <strong>Time:</strong> 6:00 PM - 7:30 PM (IST)
+  <br>
   <strong>Venue:</strong> Online|Zoom
+  <br>
+  <strong>Registration link:[Click here](https://forms.gle/aHxGqzjZwsHBJcG99)</strong> 
   <br>
 </p>
 
