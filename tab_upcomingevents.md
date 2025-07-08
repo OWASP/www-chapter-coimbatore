@@ -10,6 +10,7 @@ tags: next-tag
 # Upcoming Events
 
 <!-- [Coming Soon](assets/images/coming_soon_.gif) -->
+<!-- <strong>Registration link:</strong> [Click here](https://forms.gle/aHxGqzjZwsHBJcG99) -->
 <summary>12 July 2025 - Online Workshop (July 2025)</summary>
 <p>
   <strong>Online Meetup - July 2025</strong>
@@ -25,7 +26,6 @@ tags: next-tag
   <strong>Venue:</strong> Online|Zoom
   <br>
   [click here](https://example.com)
-  <!-- <strong>Registration link:</strong> [Click here](https://forms.gle/aHxGqzjZwsHBJcG99)-->
   <br>
 </p>
 
