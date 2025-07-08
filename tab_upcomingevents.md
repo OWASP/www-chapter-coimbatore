@@ -27,7 +27,7 @@ tags: next-tag
   <br>
   <strong>Venue:</strong> Online|Zoom
   <br>
-  <strong>Registration link: </strong>[click here](https://forms.gle/aHxGqzjZwsHB9)
+  <strong>Registration link: </strong>(https://forms.gle/aHxGqzjZwsHBJcG99)
 </p>
 
 
