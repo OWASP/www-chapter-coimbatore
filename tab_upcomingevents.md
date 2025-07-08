@@ -17,6 +17,7 @@ tags: next-tag
   <div>
     <img src="assets/images/events/July'25/Monthly workshop OWASP- July 12.png" alt="Event Poster" width="50%">
   </div> 
+  <br>
   <strong>Date:</strong> Saturday, July 12, 2025
   <strong>Time:</strong> 6:00 PM - 7:30 PM (IST)
   <strong>Venue:</strong> Online|Zoom
