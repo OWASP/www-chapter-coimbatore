@@ -1,6 +1,6 @@
 <h1 align="center">OWASP Coimbatore Chapter</h1>
 
-![OWASP Coimbatore Chapter](/assets/images/OWASP_Cbe_Banner.png)
+![OWASP Coimbatore Chapter](assets/images/OWASP_Cbe_banner.png)
 
 This is the source repository of OWASP Coimbatore. The Chapter wiki is located at https://owasp.org/www-chapter-coimbatore
 
