@@ -47,7 +47,7 @@ tags: next-tag
     <tbody>
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px;">9:45 AM - 10:00 AM</td>
-        <td style="border: 1px solid #ddd; padding: 8px;">—</td>
+        <td style="border: 1px solid #ddd; padding: 8px;"></td>
         <td style="border: 1px solid #ddd; padding: 8px;">Introduction and Welcome Note</td>
       </tr>
       <tr>
@@ -58,11 +58,11 @@ tags: next-tag
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px;">10:45 AM - 11:30 AM</td>
         <td style="border: 1px solid #ddd; padding: 8px;">TBD</td>
-        <td style="border: 1px solid #ddd; padding: 8px;">—</td>
+        <td style="border: 1px solid #ddd; padding: 8px;"></td>
       </tr>
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px;">11:30 AM - 11:45 AM</td>
-        <td style="border: 1px solid #ddd; padding: 8px;">—</td>
+        <td style="border: 1px solid #ddd; padding: 8px;"></td>
         <td style="border: 1px solid #ddd; padding: 8px;">Break</td>
       </tr>
       <tr>
@@ -72,7 +72,7 @@ tags: next-tag
       </tr>
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px;">12:30 PM - 1:30 PM</td>
-        <td style="border: 1px solid #ddd; padding: 8px;">—</td>
+        <td style="border: 1px solid #ddd; padding: 8px;"></td>
         <td style="border: 1px solid #ddd; padding: 8px;">Lunch Break - <em>Bon Appétit!!!</em></td>
       </tr>
       <tr>
@@ -87,12 +87,12 @@ tags: next-tag
       </tr>
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px;">2:45 PM - 3:30 PM</td>
-        <td style="border: 1px solid #ddd; padding: 8px;">—</td>
+        <td style="border: 1px solid #ddd; padding: 8px;"></td>
         <td style="border: 1px solid #ddd; padding: 8px;">Networking - <em>Engaging discussions and networking opportunities with industry experts!</em></td>
       </tr>
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px;">4:00 PM - 4:30 PM</td>
-        <td style="border: 1px solid #ddd; padding: 8px;">—</td>
+        <td style="border: 1px solid #ddd; padding: 8px;"></td>
         <td style="border: 1px solid #ddd; padding: 8px;">Closing Note | Summary & Plan for Next Monthly Meet</td>
       </tr>
     </tbody>
