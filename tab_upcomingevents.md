@@ -13,10 +13,14 @@ tags: next-tag
   <strong>30 August 2025 - OWASP Coimbatore Chapter Meetup</strong>
   <br>
   <div style="display: flex; justify-content: space-between;">
-    <img src="assets/images/events/August'25_offline_event/1 banner.jpg" width="270" height="337.5"><br>
-    <img src="assets/images/events/August'25_offline_event/2 schedule.jpg" width="270" height="337.5"><br>
-    <img src="assets/images/events/August'25_offline_event/3 speaker.jpg" width="270" height="337.5"><br>
-    <img src="assets/images/events/August'25_offline_event/4 speaker.jpg" width="270" height="337.5"><br>
+    <img src="assets/images/events/August'25_offline_event/1 banner.jpg" width="270" height="337.5"> 
+<br>
+    <img src="assets/images/events/August'25_offline_event/2 schedule.jpg" width="270" height="337.5">
+<br>
+    <img src="assets/images/events/August'25_offline_event/3 speaker.jpg" width="270" height="337.5">
+<br>
+    <img src="assets/images/events/August'25_offline_event/4 speaker.jpg" width="270" height="337.5">
+<br>
     <img src="assets/images/events/August'25_offline_event/5 speaker.jpg" width="270" height="337.5">
   </div>
   <br>
