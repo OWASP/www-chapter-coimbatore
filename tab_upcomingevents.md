@@ -10,7 +10,7 @@ tags: next-tag
 # Upcoming Events
 
 <p>
-  <strong>30 August 2025 - OWASP Coimbatore Chapter Meetup<</strong>
+  <strong>30 August 2025 - OWASP Coimbatore Chapter Meetup</strong>
   <br>
   <div style="display: flex; justify-content: space-between;">
     <img src="assets/images/events/August'25_offline_event/1 banner.jpg" width="270" height="337.5"><br>
