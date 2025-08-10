@@ -9,7 +9,7 @@ tags: next-tag
 
 # Upcoming Events
 
-<!-- [Coming Soon](assets/images/coming_soon_.gif) -->
+[Coming Soon](assets/images/coming_soon_.gif)
 
 Stay tuned for more updates and details about our upcoming events!
 ---
