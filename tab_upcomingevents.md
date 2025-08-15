@@ -23,6 +23,7 @@ tags: next-tag
     <img src="assets/images/events/August'25_offline_event/1 banner.jpg" width="270" height="337.5"> 
     <img src="assets/images/events/August'25_offline_event/2 schedule.jpg" width="270" height="337.5">
     <img src="assets/images/events/August'25_offline_event/3 speaker.jpg" width="270" height="337.5">
+    <img src="assets/images/events/August'25_offline_event/6 speaker.jpg" width="270" height="337.5">
     <img src="assets/images/events/August'25_offline_event/4 speaker.jpg" width="270" height="337.5">
     <img src="assets/images/events/August'25_offline_event/5 speaker.jpg" width="270" height="337.5">
   </div>
