@@ -58,8 +58,8 @@ tags: next-tag
       </tr>
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px;">10:45 AM - 11:30 AM</td>
-        <td style="border: 1px solid #ddd; padding: 8px;">TBD</td>
-        <td style="border: 1px solid #ddd; padding: 8px;"></td>
+        <td style="border: 1px solid #ddd; padding: 8px;">Bashith Rahman</td>
+        <td style="border: 1px solid #ddd; padding: 8px;">From Recon to Reporting: Breaking into Systems to Make Them Stronger</td>
       </tr>
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px;">11:30 AM - 11:45 AM</td>
