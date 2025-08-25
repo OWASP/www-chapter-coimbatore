@@ -4,6 +4,7 @@
 
 ### Social Handles
 
+* [Whatsapp](https://forms.gle/kpHSeRg8LurTFU5s9)
 * [Meetup](https://www.meetup.com/owasp-coimbatore-chapter/)
 * [Instagram](https://www.instagram.com/owasp_coimbatore/)
 * [Facebook](https://www.facebook.com/owaspcoimbatore/)
