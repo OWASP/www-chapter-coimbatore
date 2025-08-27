@@ -15,7 +15,7 @@ tags: next-tag
 
   <!-- Registration Button -->
   <a href="https://your-registration-link.com" target="_blank" style="display: inline-block; background-color: #ff5722; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; margin: 10px 0;">
-    🔗 Register Now
+    🔗 Registration Closed
   </a>
   <br><br>
 
