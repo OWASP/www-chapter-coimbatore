@@ -14,7 +14,6 @@ tags: next-tag
   <div>
     <img style='border:1px solid #000000' src="assets/images/events/September'25/Muthu varadharajan_20250923_163715_0000.png" alt="Event Poster" width="50%">
   </div> 
-  <br>
   <strong>Speaker:</strong> Mr. Muthuvaradharajan D | Senior Cyber Security Consultant LTI MindTree
   <br>
   <strong>Date:</strong> Saturday, September 27, 2025
