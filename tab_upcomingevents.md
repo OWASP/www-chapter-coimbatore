@@ -12,7 +12,7 @@ tags: next-tag
   <strong>27 September 2025 - Online Workshop (September 2025)</strong>
   <br>
   <div>
-    <img src="assets/images/coming_soon_.gif" alt="Event Poster" width="50%">
+    <img src="assets/images/events/September'25/Muthu varadharajan_20250923_163715_0000.png" alt="Event Poster" width="50%">
   </div> 
   <br>
   <strong>Speaker:</strong> Mr. Muthuvaradharajan D | Senior Cyber Security Consultant LTI MindTree
