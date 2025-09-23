@@ -22,6 +22,8 @@ tags: next-tag
   <strong>Time:</strong> 6:00 PM - 7:30 PM (IST)
   <br>
   <strong>Venue:</strong> Online|Zoom
+  <strong>Registration Link:</strong> <a href="https://forms.gle/19tPPSzg14jsdUtc7">Google form</a>
+  
 </p>
 
 <p style="font-size: 2.5em; color: red; font-weight: bold; text-align: center; margin-top: 20px;">
