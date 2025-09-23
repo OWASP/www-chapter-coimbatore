@@ -22,6 +22,7 @@ tags: next-tag
   <strong>Time:</strong> 6:00 PM - 7:30 PM (IST)
   <br>
   <strong>Venue:</strong> Online|Zoom
+  <br>
   <strong>Registration Link:</strong> <a href="https://forms.gle/19tPPSzg14jsdUtc7">Google form</a>
   
 </p>
