@@ -99,9 +99,7 @@ tags: next-tag
       </tr>
     </tbody>
   </table>
-</p>
-</details>
-
+  
 <p style="font-size: 2.5em; color: red; font-weight: bold; text-align: center; margin-top: 20px;">
   நம்ம Coimbatoreங்க!
 </p>
