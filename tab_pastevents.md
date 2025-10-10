@@ -8,6 +8,27 @@ tags: next-tag
 ---
 
 <h2>Past Events</h2>
+
+<details>
+  
+  <summary>27 September 2025 - Online Workshop (September 2025)</summary>
+  <p>
+    <br>
+    <div>
+      <img style='border:1px solid #000000' src="assets/images/events/September'25/Muthu varadharajan_20250923_163715_0000.png" alt="Event Poster" width="50%">
+    </div> 
+    <br>
+    <strong>Speaker:</strong> Speaker:</strong> Mr. Muthuvaradharajan D | Senior Cyber Security Consultant LTI MindTree
+    <br>
+    <strong>Date:</strong> Saturday, September 27, 2025
+    <br>
+    <strong>Time:</strong> 6:00 PM - 7:30 PM (IST)
+    <br>
+    <strong>Venue:</strong> Online|Zoom
+  </p>
+</details>
+<hr>
+
 <details>
   <summary>30 August 2025 - OWASP Coimbatore Chapter Meetup</summary>
   <br>
