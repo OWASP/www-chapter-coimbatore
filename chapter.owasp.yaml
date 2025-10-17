@@ -1,0 +1,29 @@
+community:
+  - name: chapter-coimbatore
+    platform: slack
+    url: https://owasp.slack.com/archives/C09ABTM0ZUL
+leaders:
+  - name: Avinash R
+    email: avinash.ravi@owasp.org
+  - name: Subash Jaganathan
+    email: subash.jaganathan@owasp.org
+  - name: Rohit Saravanan
+    email: rohit.saravanan@owasp.org
+location:
+  country: India
+  country_code: IN
+  region: Tamil Nadu
+  city: Coimbatore
+  latitude: 11.0018115
+  longitude: 76.9628425
+meetup_group: owasp-coimbatore
+name: OWASP Coimbatore
+repositories:
+  - name: www-chapter-coimbatore
+    url: https://github.com/OWASP/www-chapter-coimbatore
+    description: OWASP Coimbatore's Web & Project Repository
+tags:
+  - cbe
+  - owaspcbe
+  - next-tag
+website: https://owasp.org/www-chapter-coimbatore
