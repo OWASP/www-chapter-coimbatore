@@ -11,7 +11,10 @@ tags: next-tag
 
 | Date                 | Topic                                                               | Download Link                                                                                              |
 |----------------------|---------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| 12 July 2025         | **Monthly Workshop - From Cipher to Cleartext: A Hacker's Guide to Beating IOS Encryption**                         |  [TBD](https://owasp.org/www-chapter-coimbatore/)                                                  |
+| 01 November 2025     | **OWASP Coimbatore Combined Monthly Meetup**   |   [Beyond Dependencies: Rethinking Software Supply Chain Security](assets/files/1NOV2025/Securing_the_Software_Supply_Chain.pptx),  [Network and Network Security](assets/files/1NOV2025/NetworkSecurity.pptx),  [Endpoint Security: Safeguarding Every Device at the Edge](assets/files/1NOV2025/EDR.pptx),  [The Art of Reverse Engineering and Exploitation](assets/files/1NOV2025/OWASP_slides.pptx) |
+| 27 September 2025    | **Monthly Workshop - Adv Reverse engineering and malware analysis **   |  [TBD](https://owasp.org/www-chapter-coimbatore/)    |
+| 30 August 2025       | **OWASP Coimbatore Combined Monthly Meetup**   | [TBD](https://owasp.org/www-chapter-coimbatore/)    |
+| 12 July 2025         | **Monthly Workshop - From Cipher to Cleartext: A Hacker's Guide to Beating IOS Encryption**                         |  [TBD](https://owasp.org/www-chapter-coimbatore/)         |
 | 30 November 2024     | **Monthly Workshop - Intro to Red Teaming**                         |  [Download](assets/files/Intro%20to%20Red%20Teaming.pptx)                                                  |
 | 19 October 2024      | **Monthly Workshop - Drone Forensics - 101**                        |  [DJI Mavic Air Mobile](assets/files/00_DJI_Mavic_Air_Mobile.pdf) [Mavic_Air_microSD](assets/files/02_DJI_Mavic_Air_microSD_encase.pdf) |
 | 14 September 2024    | **Monthly Workshop - Understanding Cloud Security with GOAT Tools** |  [Download]()                                            |                                                                
