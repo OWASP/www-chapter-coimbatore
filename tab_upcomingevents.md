@@ -8,7 +8,6 @@ tags: next-tag
 ---
 
 # Upcoming Events
-
 <Summary>13 December 2025 - Online Workshop</summary>
 <p>
   <br>
@@ -27,6 +26,7 @@ tags: next-tag
   <strong>Venue:</strong> Online | Zoom
   <br>
 
+<br>
 <a href="https://www.meetup.com/owasp-coimbatore-chapter/events/312349641/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=423406265" target="_blank" 
    style="padding:8px 14px; background:#007bff; color:#fff; text-decoration:none;
           border-radius:6px; font-weight:600;">
