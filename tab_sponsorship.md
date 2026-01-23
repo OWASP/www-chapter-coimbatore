@@ -9,4 +9,4 @@ tags: next-tag
 
 # Sponsorship
 
-> To sponsor this chapter kindly contact [Avinash R](mailto:avinash.ravi@owasp.org), [Subash Jaganathan](mailto:subash.jaganathan@owasp.org).
+> To sponsor this chapter, kindly contact [Chapter Leaders](mailto:coimbatore-leaders@owasp.org).
