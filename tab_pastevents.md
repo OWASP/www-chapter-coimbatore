@@ -25,7 +25,7 @@ tags: next-tag
     <br>
     <strong>Time:</strong> 6:00 PM – 7:30 PM (IST)
     <br>
-    <strong>Venue:</strong> Online|Zoom
+    <strong>Venue:</strong> Online | Zoom
   </p>
 </details>
 <hr>
