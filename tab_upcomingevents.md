@@ -13,7 +13,7 @@ tags: next-tag
 <p>
   <br>
   <div>
-    <img style='border:1px solid #000000' src="assets/images/events/Dec_13_2025_event_poster.jpeg" alt="Event Poster" width="50%">
+    <img style='border:1px solid #000000' src="assets/images/events/Daksh Bhagwani_poster (2).png" alt="Event Poster" width="50%">
   </div>
   <br>
   <strong>Speaker:</strong> Mr. Daksh Bhagwani | Automotive Security & PQC Researcher
