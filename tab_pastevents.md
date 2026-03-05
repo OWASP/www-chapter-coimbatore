@@ -30,6 +30,7 @@ tags: next-tag
 </details>
 <br>
 
+<details>
 <summary>01 November 2025 - OWASP Coimbatore Chapter Meetup</summary>
  <p>
   <br>
