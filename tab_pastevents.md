@@ -11,6 +11,7 @@ tags: next-tag
 <details>
   <summary>30 August 2025 - OWASP Coimbatore Chapter Meetup</summary>
   <br>
+</details>
 <details>
 <Summary>13 December 2025 - Online Workshop</summary>
 <p>
