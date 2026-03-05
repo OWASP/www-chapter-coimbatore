@@ -9,30 +9,26 @@ tags: next-tag
 
 <h2>Past Events</h2>
 <details>
-  <summary>30 August 2025 - OWASP Coimbatore Chapter Meetup</summary>
-  <br>
+  
+  <summary>13 December 2025 - Online Workshop</summary>
+  <p>
+    <br>
+    <div>
+       <img style='border:1px solid #000000' src="assets/images/events/Dec_13_2025_event_poster.jpeg" alt="Event Poster" width="50%">
+    </div> 
+    <br>
+    <strong>Speaker:</strong> Mr. Prathap Ilango | Application Security Engineer – Slidea
+    <br>
+    <strong>Session Topic:</strong> Mobile Application Pentesting
+    <br>
+    <strong>Date:</strong> Saturday, December 13, 2025
+    <br>
+    <strong>Time:</strong> 6:00 PM – 7:30 PM (IST)
+    <br>
+    <strong>Venue:</strong> Online|Zoom
+  </p>
 </details>
-<details>
-<Summary>13 December 2025 - Online Workshop</summary>
-<p>
-  <br>
-  <div>
-    <img style='border:1px solid #000000' src="assets/images/events/Dec_13_2025_event_poster.jpeg" alt="Event Poster" width="50%">
-  </div>
-  <br>
-  <strong>Speaker:</strong> Mr. Prathap Ilango | Application Security Engineer – Slidea
-  <br>
-  <strong>Session Topic:</strong> Mobile Application Pentesting
-  <br>
-  <strong>Date:</strong> Saturday, December 13, 2025
-  <br>
-  <strong>Time:</strong> 6:00 PM – 7:30 PM (IST)
-  <br>
-  <strong>Venue:</strong> Online | Zoom
-  <br>
-</p>
-</details>
-
+<hr>
 
 <details>
 <summary>01 November 2025 - OWASP Coimbatore Chapter Meetup</summary>
