@@ -27,6 +27,7 @@ tags: next-tag
   <strong>Venue:</strong> Online | Zoom
   <br>
 </p>
+</details>
 <br>
 
 <summary>01 November 2025 - OWASP Coimbatore Chapter Meetup</summary>
