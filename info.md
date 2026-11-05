@@ -8,12 +8,12 @@
 * [Meetup](https://www.meetup.com/owasp-coimbatore-chapter/)
 * [Instagram](https://www.instagram.com/owasp_coimbatore/)
 * [Facebook](https://www.facebook.com/owaspcoimbatore/)
-* [LinkedIn](https://www.linkedin.com/company/owasp-coimbatore)
+* [LinkedIn](https://www.linkedin.com/company/owaspcoimbatore/)
 * [YouTube](https://www.youtube.com/@owaspcbe)
 
 ### Code Repository
 * [GitHub](https://github.com/OWASP/www-chapter-coimbatore)
 
 ### Useful Links
-* [Become a Member](https://www.owasp.org/index.php/Membership)
-* [Code of Conduct](https://www.owasp.org/index.php/Governance/Conference_Policies)
+* [Become a Member](https://owasp.org/membership/)
+* [Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct)
